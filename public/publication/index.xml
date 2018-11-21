@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on ~KV</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on ~KV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Commercial Real Estate, Housing and the Business Cycle</title>
+      <link>/publication/cre/index/</link>
+      <pubDate>Thu, 07 Jun 2018 00:47:09 +0100</pubDate>
+      
+      <guid>/publication/cre/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speculative Bubbles in the Chinese Stock Market: Evidence from Cross-listed Stocks</title>
+      <link>/publication/ahpremia/index/</link>
+      <pubDate>Thu, 07 Jun 2018 00:47:09 +0100</pubDate>
+      
+      <guid>/publication/ahpremia/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

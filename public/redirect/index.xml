@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redirects on ~KV</title>
+    <link>/redirect/</link>
+    <description>Recent content in Redirects on ~KV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/redirect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/redirect/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/redirect/cv/</guid>
+      <description>Kostas Vasilopoulos  Download Resume   Department of Economics, Lancaster University, Lancaster, LA1 4YX, United Kingdom 
+Education  Ph.D. Candidate in Economics, 2016 Lancaster University
+ Msc Economics, 2014 University of Macedonia (Greece)
+ BSc Economics, 2009 University of Macedonia (Greece)
+  Employment Arthur Guinness &amp;amp; Son
+Chief Brewer (Park Royal) 1935-1937
+Researcher (Dublin) 1899-1935
+Education New College, Oxford University, B.A. Chemistry \hfill 1899
+Publications Books Pearson, E.</description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>/redirect/conf/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/redirect/conf/</guid>
+      <description> 4th International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2018 North West Social Sciences Doctoral Training Partnership The University of Manchester, Manchester, May, 2018 3rd International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2017  </description>
+    </item>
+    
+  </channel>
+</rss>
