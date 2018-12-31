@@ -12,15 +12,12 @@
     
     
     <item>
-      <title>Slides</title>
+      <title></title>
       <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/slides/example-slides/</guid>
-      <description>Welcome to Slides Academic
-Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides  Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E  Code Highlighting Inline code: variable
-Code block:
-porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;quot;: print(&amp;quot;Eating...&amp;quot;)  Math In-line math: $x + y = z$</description>
+      <description>+++ title = &amp;ldquo;Slides&amp;rdquo; [slides] # Choose a theme from https://github.com/hakimel/reveal.js#theming theme = &amp;ldquo;black&amp;rdquo; +++ # Welcome to Slides Academic &amp;mdash; ## Features - Efficiently write slides in Markdown - 3-in-1: Create, Present, and Publish your slides - Supports speaker notes - Mobile friendly slides &amp;mdash; ## Controls - Next: Right Arrow or Space - Previous: Left Arrow - Start: Home - Finish: End - Overview: Esc - Speaker notes: S - Fullscreen: F - Zoom: Alt + Click - PDF Export: E &amp;mdash; ## Code Highlighting Inline code: variable Code block: ```python porridge = &amp;ldquo;blueberry&amp;rdquo; if porridge == &amp;ldquo;blueberry&amp;rdquo;: print(&amp;ldquo;Eating&amp;hellip;&amp;rdquo;) ``` &amp;mdash; ## Math In-line math: $x + y = z$ Block math: $$ f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}} $$ &amp;mdash; ## Fragments Make content appear incrementally ``` {{% fragment %}} One {{% /fragment %}} {{% fragment %}} Two {{% /fragment %}} {{% fragment %}} Three {{% /fragment %}} ``` Press Space to play!</description>
     </item>
     
   </channel>
