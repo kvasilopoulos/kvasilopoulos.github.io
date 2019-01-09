@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-
+* The 12th International Conference on Computational and Financial Econometrics (CFE 2018), University of Pisa, Pisa, 14-16 December 2018.
 * 4th International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2018
 * North West Social Sciences Doctoral Training Partnership The University of Manchester, Manchester, May, 2018
 * 3rd International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2017

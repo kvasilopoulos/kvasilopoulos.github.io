@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>~KV on ~KV</title>
+    <title>~ KV on ~ KV</title>
     <link>/</link>
-    <description>Recent content in ~KV on ~KV</description>
+    <description>Recent content in ~ KV on ~ KV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Skills</title>
+      <link>/bio/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/bio/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/bio/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bio/experience/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -682,244 +700,6 @@ Figure 1: A fancy pie chart.
       
       <guid>/post/2015-01-01-lorem-ipsum/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/slides/example-slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/slides/example-slides/</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;+++&lt;/h1&gt;
-
-&lt;h1 id=&#34;title-slides&#34;&gt;title = &amp;ldquo;Slides&amp;rdquo;&lt;/h1&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;[slides]&lt;/h1&gt;
-
-&lt;h1 id=&#34;choose-a-theme-from-https-github-com-hakimel-reveal-js-theming&#34;&gt;# Choose a theme from &lt;a href=&#34;https://github.com/hakimel/reveal.js#theming&#34; target=&#34;_blank&#34;&gt;https://github.com/hakimel/reveal.js#theming&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;theme-black&#34;&gt;theme = &amp;ldquo;black&amp;rdquo;&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_5&#34;&gt;+++&lt;/h1&gt;
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;# Welcome to Slides&lt;/h1&gt;
-
-&lt;h1 id=&#34;academic-https-sourcethemes-com-academic&#34;&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_8&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;features&#34;&gt;## Features&lt;/h1&gt;
-
-&lt;h1 id=&#34;efficiently-write-slides-in-markdown&#34;&gt;- Efficiently write slides in Markdown&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-in-1-create-present-and-publish-your-slides&#34;&gt;- 3-in-1: Create, Present, and Publish your slides&lt;/h1&gt;
-
-&lt;h1 id=&#34;supports-speaker-notes&#34;&gt;- Supports speaker notes&lt;/h1&gt;
-
-&lt;h1 id=&#34;mobile-friendly-slides&#34;&gt;- Mobile friendly slides&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_14&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;controls&#34;&gt;## Controls&lt;/h1&gt;
-
-&lt;h1 id=&#34;next-right-arrow-or-space&#34;&gt;- Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;previous-left-arrow&#34;&gt;- Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;start-home&#34;&gt;- Start: &lt;code&gt;Home&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;finish-end&#34;&gt;- Finish: &lt;code&gt;End&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;overview-esc&#34;&gt;- Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;speaker-notes-s&#34;&gt;- Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;fullscreen-f&#34;&gt;- Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;zoom-alt-click&#34;&gt;- Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;pdf-export-https-github-com-hakimel-reveal-js-pdf-export-e&#34;&gt;- &lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_25&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;code-highlighting&#34;&gt;## Code Highlighting&lt;/h1&gt;
-
-&lt;h1 id=&#34;inline-code-variable&#34;&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;code-block&#34;&gt;Code block:&lt;/h1&gt;
-
-&lt;h1 id=&#34;python&#34;&gt;```python&lt;/h1&gt;
-
-&lt;h1 id=&#34;porridge-blueberry&#34;&gt;porridge = &amp;ldquo;blueberry&amp;rdquo;&lt;/h1&gt;
-
-&lt;h1 id=&#34;if-porridge-blueberry&#34;&gt;if porridge == &amp;ldquo;blueberry&amp;rdquo;:&lt;/h1&gt;
-
-&lt;h1 id=&#34;print-eating&#34;&gt;print(&amp;ldquo;Eating&amp;hellip;&amp;rdquo;)&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_33&#34;&gt;```&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_34&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;math&#34;&gt;## Math&lt;/h1&gt;
-
-&lt;h1 id=&#34;in-line-math-x-y-z&#34;&gt;In-line math: $x + y = z$&lt;/h1&gt;
-
-&lt;h1 id=&#34;block-math&#34;&gt;Block math:&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_38&#34;&gt;$$&lt;/h1&gt;
-
-&lt;h1 id=&#34;f-left-x-right-frac-2-left-x-4-right-left-x-4-right-left-x-4-right-left-x-1-right&#34;&gt;f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_40&#34;&gt;$$&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_41&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;fragments&#34;&gt;## Fragments&lt;/h1&gt;
-
-&lt;h1 id=&#34;make-content-appear-incrementally&#34;&gt;Make content appear incrementally&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_44&#34;&gt;```&lt;/h1&gt;
-
-&lt;h1 id=&#34;fragment-one-fragment&#34;&gt;{{% fragment %}} One {{% /fragment %}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;fragment-two-fragment&#34;&gt;{{% fragment %}} &lt;strong&gt;Two&lt;/strong&gt; {{% /fragment %}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;fragment-three-fragment&#34;&gt;{{% fragment %}} Three {{% /fragment %}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_48&#34;&gt;```&lt;/h1&gt;
-
-&lt;h1 id=&#34;press-space-to-play&#34;&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/h1&gt;
-
-&lt;h1 id=&#34;hahahugoshortcode-0xc000cf0500-1-hbhb&#34;&gt;&lt;span class=&#34;fragment &#34; &gt;
-  &lt;p&gt;One&lt;/p&gt;
-
-&lt;/span&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;hahahugoshortcode-0xc000cf0500-2-hbhb&#34;&gt;&lt;span class=&#34;fragment &#34; &gt;
-  &lt;p&gt;&lt;strong&gt;Two&lt;/strong&gt;&lt;/p&gt;
-
-&lt;/span&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;hahahugoshortcode-0xc000cf0500-3-hbhb&#34;&gt;&lt;span class=&#34;fragment &#34; &gt;
-  &lt;p&gt;Three&lt;/p&gt;
-
-&lt;/span&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_53&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;a-fragment-can-accept-two-optional-parameters&#34;&gt;A fragment can accept two optional parameters:&lt;/h1&gt;
-
-&lt;h1 id=&#34;class-use-a-custom-style-requires-definition-in-custom-css&#34;&gt;- &lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/h1&gt;
-
-&lt;h1 id=&#34;weight-sets-the-order-in-which-a-fragment-appears&#34;&gt;- &lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_57&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;speaker-notes&#34;&gt;## Speaker Notes&lt;/h1&gt;
-
-&lt;h1 id=&#34;add-speaker-notes-to-your-presentation&#34;&gt;Add speaker notes to your presentation&lt;/h1&gt;
-
-&lt;h1 id=&#34;markdown&#34;&gt;```markdown&lt;/h1&gt;
-
-&lt;h1 id=&#34;speaker-note&#34;&gt;{{% speaker_note %}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;only-the-speaker-can-read-these-notes&#34;&gt;- Only the speaker can read these notes&lt;/h1&gt;
-
-&lt;h1 id=&#34;press-s-key-to-view&#34;&gt;- Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/h1&gt;
-
-&lt;h1 id=&#34;speaker-note-1&#34;&gt;{{% /speaker_note %}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_65&#34;&gt;```&lt;/h1&gt;
-
-&lt;h1 id=&#34;press-the-s-key-to-view-the-speaker-notes&#34;&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/h1&gt;
-
-&lt;h1 id=&#34;hahahugoshortcode-0xc000cf0500-4-hbhb&#34;&gt;&lt;aside class=&#34;notes&#34;&gt;
-  &lt;h1 id=&#34;only-the-speaker-can-read-these-notes&#34;&gt;- Only the speaker can read these notes&lt;/h1&gt;
-
-&lt;h1 id=&#34;press-s-key-to-view&#34;&gt;- Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/h1&gt;
-
-&lt;/aside&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_68&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;themes&#34;&gt;## Themes&lt;/h1&gt;
-
-&lt;h1 id=&#34;black-black-background-white-text-blue-links-default&#34;&gt;- black: Black background, white text, blue links (default)&lt;/h1&gt;
-
-&lt;h1 id=&#34;white-white-background-black-text-blue-links&#34;&gt;- white: White background, black text, blue links&lt;/h1&gt;
-
-&lt;h1 id=&#34;league-gray-background-white-text-blue-links&#34;&gt;- league: Gray background, white text, blue links&lt;/h1&gt;
-
-&lt;h1 id=&#34;beige-beige-background-dark-text-brown-links&#34;&gt;- beige: Beige background, dark text, brown links&lt;/h1&gt;
-
-&lt;h1 id=&#34;sky-blue-background-thin-dark-text-blue-links&#34;&gt;- sky: Blue background, thin dark text, blue links&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_75&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;night-black-background-thick-white-text-orange-links&#34;&gt;- night: Black background, thick white text, orange links&lt;/h1&gt;
-
-&lt;h1 id=&#34;serif-cappuccino-background-gray-text-brown-links&#34;&gt;- serif: Cappuccino background, gray text, brown links&lt;/h1&gt;
-
-&lt;h1 id=&#34;simple-white-background-black-text-blue-links&#34;&gt;- simple: White background, black text, blue links&lt;/h1&gt;
-
-&lt;h1 id=&#34;solarized-cream-colored-background-dark-green-text-blue-links&#34;&gt;- solarized: Cream-colored background, dark green text, blue links&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_80&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;hahahugoshortcode-0xc000cf0500-5-hbhb&#34;&gt;
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-&lt;/h1&gt;
-
-&lt;h1 id=&#34;custom-slide&#34;&gt;## Custom Slide&lt;/h1&gt;
-
-&lt;h1 id=&#34;customize-the-slide-style-and-background&#34;&gt;Customize the slide style and background&lt;/h1&gt;
-
-&lt;h1 id=&#34;markdown-1&#34;&gt;```markdown&lt;/h1&gt;
-
-&lt;h1 id=&#34;slide-background-image-img-boards-jpg&#34;&gt;{{&amp;lt; slide background-image=&amp;ldquo;/img/boards.jpg&amp;rdquo; &amp;gt;}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;slide-background-color-0000ff&#34;&gt;{{&amp;lt; slide background-color=&amp;ldquo;#0000FF&amp;rdquo; &amp;gt;}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;slide-class-my-style&#34;&gt;{{&amp;lt; slide class=&amp;ldquo;my-style&amp;rdquo; &amp;gt;}}&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_88&#34;&gt;```&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_89&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;custom-css-example&#34;&gt;## Custom CSS Example&lt;/h1&gt;
-
-&lt;h1 id=&#34;let-s-make-headers-navy-colored&#34;&gt;Let&amp;rsquo;s make headers navy colored.&lt;/h1&gt;
-
-&lt;h1 id=&#34;create-assets-css-reveal-custom-css-with&#34;&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/h1&gt;
-
-&lt;h1 id=&#34;css&#34;&gt;```css&lt;/h1&gt;
-
-&lt;h1 id=&#34;reveal-section-h1&#34;&gt;.reveal section h1,&lt;/h1&gt;
-
-&lt;h1 id=&#34;reveal-section-h2&#34;&gt;.reveal section h2,&lt;/h1&gt;
-
-&lt;h1 id=&#34;reveal-section-h3&#34;&gt;.reveal section h3 {&lt;/h1&gt;
-
-&lt;h1 id=&#34;color-navy&#34;&gt;color: navy;&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_98&#34;&gt;}&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_99&#34;&gt;```&lt;/h1&gt;
-
-&lt;h1 id=&#34;toc_100&#34;&gt;&amp;mdash;&lt;/h1&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;# Questions?&lt;/h1&gt;
-
-&lt;h1 id=&#34;ask-https-discourse-gohugo-io&#34;&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;documentation-https-sourcethemes-com-academic-docs&#34;&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     

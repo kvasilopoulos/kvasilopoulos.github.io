@@ -1,0 +1,50 @@
+---
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ./template/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Kostas Vasilopoulos
+
+jobtitle: "Ph.D. Candidate Lancaster University"
+#address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+fontawesome: yes
+email: k.vasilopoulos@lancaster.ac.uk
+github: kvasilopoulos
+phone: "+44(0)7554506227"
+web: kvasilopoulos.netlify.com
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*Lancaster University*, Ph.D. Economics \hfill 2016-
+
+*University of Macedonia, Greece*, Ms.C. Economics \hfill 1899
+
+*University of Macedonia, Greece*, Bs.C. Economics \hfill 1899
+
+
+# Working Papers
+
+
+# Projects
+
+
+# Technical Skills
+
+
+
+# References
+
+Available upon request

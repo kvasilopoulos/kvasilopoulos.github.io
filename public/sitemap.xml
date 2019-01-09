@@ -6,6 +6,10 @@
     
   
     
+  
+    
+  
+    
     <url>
     
       <loc>/tutorial/example/</loc>
@@ -42,6 +46,14 @@
     
       <loc>/publication/ahpremia/index/</loc>
       <lastmod>2018-06-07T00:47:09+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/bio/</loc>
+      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     </url>
     
   

@@ -33,18 +33,18 @@ a:focus {
   *  Blog Articles
 **************************************************/
   
-  .article-metadata a:hover {
-    color: rgb(127,140,180);
-  }
+.article-metadata a:hover {
+  color: rgb(127,140,180);
+}
 
 /*************************************************
   *  Button Primary: Color Override
 **************************************************/
   
-  .btn-primary {
+.btn-primary {
     border-color: rgb(127,140,180);
     /*background: rgb(127,140,180);*/
-  }
+}
 
 .btn-primary:hover,
 .btn-primary:focus,
@@ -58,18 +58,18 @@ a:focus {
 /*************************************************
   *  Button Outlines
 **************************************************/
-  
-  
-  .btn-primary.btn-outline {
+
+.btn-primary.btn-outline {
     color: rgb(127,140,180);
     border-color: rgb(127,140,180);
   }
-
+  
+  
 /*************************************************
   *  Navigation Bar
 **************************************************/
   
-  .navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
   color: rgb(127,140,180);
@@ -101,10 +101,9 @@ a:focus {
   *  Toolbar Buttons
 **************************************************/
   
-  
-  .btn-toolbar .btn.btn-primary {
+.btn-toolbar .btn.btn-primary {
     background: rgb(127,140,180);
-  }
+}
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
@@ -119,12 +118,12 @@ a:focus {
 /*************************************************
   *  Publications
 **************************************************/
-  
-  .pub-icon {
+
+ .pub-icon {
     color: rgb(52,60,86);
     font-size: 0.81em;
     padding-top: 6px;
-  }
+}
 
 .pub-list-item .pub-publication {
   color: rgb(132, 214, 211);
@@ -135,14 +134,15 @@ a:focus {
 /*************************************************
   *  Fonts (note: update link @ themes/hugo-academic/layouts/partials)
 **************************************************/
-  
-  html {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
-    font-size: 16px;
-    color: rgba(0,0,0,0.8);
-    line-height: 1.65;
-  }
+
+
+html {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: rgba(0,0,0,0.8);
+  line-height: 1.65;
+}
 
 /*************************************************
   *  Alerts
@@ -159,4 +159,17 @@ a:focus {
   color: #fff;
     background-color: rgb(238, 88, 99); 
   border-color: #ebccd1;
+}
+
+
+/*************************************************
+  *  New Elemnts
+**************************************************/
+  
+.column {
+  padding: 5px;
+}
+
+#skills h1{
+  padding-bottom:20px;
 }

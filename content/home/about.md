@@ -12,6 +12,8 @@ weight = 5
   interests = [
     "Applied Macroeconomics",
     "Time Series Econometrics",
+    "Explosive Dynamics",
+    "Real Estate",
     "Credit Frictions",
     "Dynamic Stochastic General Equilibrium (DSGE) modelling"
   ]
@@ -37,4 +39,4 @@ weight = 5
 
 # Biography
 
-My main research interests include theoretical and applied macroeconomics, focused on the real estate markets. More specifically I examine the part of Commercial Real Estate in the economy and the interactions with the Housing market.
+I am third-year Doctoral Student at Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. I examine the part of Commercial Real Estate in the economy and the interactions with the Housing market.

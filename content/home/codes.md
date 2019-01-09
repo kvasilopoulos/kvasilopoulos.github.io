@@ -15,12 +15,45 @@ weight = 50
 
 +++
 
-[exuber](https://cran.r-project.org/package=exuber): Econometric Analysis of Explosive Time Series
+### exuber : Econometric Analysis of Explosive Time Series
 
-<!-- [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/exuber)](https://cran.r-project.org/package=exuber) -->
 
-> Testing for and dating periods of explosive dynamics (exuberance) in time series
-> using recursive unit root tests as proposed by [Phillips, P. C., Shi, S. and Yu, J. (2015a)](https://doi.org/10.1111/iere.12132).
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<div class="row">
+
+  <div class="column">
+    <p><a href="https://cran.r-project.org/package=exuber"><img src="http://www.r-pkg.org/badges/version/exuber" alt="CRAN_Status_Badge" /></a></p>
+  </div>
+  
+</div>
+
+
+> Testing for and dating periods of explosive dynamics 
+  (exuberance) in time series using recursive unit root tests as proposed 
+  by Phillips, P. C., Shi, S. and Yu, J. (2015a) <doi:10.1111/iere.12132>. 
+  Simulation of a variety of periodically-collapsing bubble processes. The 
+  estimation code utilizes the matrix inversion lemma of the recursive least 
+  squares algorithm which results in significant speed improvements.
+
+
+<div class="row">
+  
+  <div class="column">
+   <a class="github-button" href="https://github.com/kvasilopoulos/exuber" data-size="large"
+    aria-label="Follow @kvasilopoulos on GitHub">Github repo</a>
+  </div>
+  
+  <div class="column">
+<a class="github-button" href="https://github.com/kvasilopoulos/exuber" data-icon="octicon-star" data-size="large" aria-label="Star kvasilopoulos/exuber on GitHub">Star</a>
+  </div>
+  
+  <div class="column">
+<a class="github-button" href="https://github.com/kvasilopoulos/exuber/subscription" data-icon="octicon-eye" data-size="large" aria-label="Watch kvasilopoulos/exuber on GitHub">Watch</a>
+  </div>
+  
+</div>
+
 
 
 <!-- > Simulate a variety of periodically-collapsing bubble models. The estimation
