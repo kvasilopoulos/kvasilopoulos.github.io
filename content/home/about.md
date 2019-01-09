@@ -13,7 +13,7 @@ weight = 5
     "Applied Macroeconomics",
     "Time Series Econometrics",
     "Explosive Dynamics",
-    "Real Estate",
+    "Real Estate Markets",
     "Credit Frictions",
     "Dynamic Stochastic General Equilibrium (DSGE) modelling"
   ]
@@ -26,7 +26,7 @@ weight = 5
   year = 2016
 
 [[education.courses]]
-  course = "Msc Economics"
+  course = "MSc Economics"
   institution = "University of Macedonia (Greece)"
   year = 2014
 

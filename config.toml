@@ -321,10 +321,11 @@ enableGitInfo = false
 #  url = "#projects"
 #  weight = 5
   
-#[[menu.main]]
-#  name = "Conferences"
-#  url = "#/redirect/"
-#  weight = 6
+#
+[[menu.main]]
+  name = "Conferences"
+  url = "/redirect/"
+  weight = 6
 
 #[[menu.main]]
 #  name = "Teaching"

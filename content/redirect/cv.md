@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = true
+active = false
 date = "2016-04-20T00:00:00"
 showthedate = false
 
@@ -29,74 +29,70 @@ weight = 70
 <sub>
 -------------------     ----------------------------
 
-## Education
----------
+# Education
 
-* Ph.D. Candidate in Economics, 2016 Lancaster University
+* *Lancaster University*, Ph.D. Economics \hfill Octomber 2016-
 
-* Msc Economics, 2014 University of Macedonia (Greece)
+* *University of Macedonia, Greece*, Ms.C. Economics \hfill Sept 2014- March 2016
 
-* BSc Economics, 2009 University of Macedonia (Greece)
+* *University of Macedonia, Greece*, Bs.C. Economics \hfill Sept 2009- Aug 2014
 
-## Employment
----------
+# Research Interests
 
-Arthur Guinness & Son
+* Macroeconomics,   Real  Estate  Markets,   Time  Series Modeling, Credit Frictions, Dynamic Stochastic General Equilibrium (DSGE) modelling
 
-Chief Brewer (Park Royal)  1935-1937
+# Working Papers
 
-Researcher (Dublin)  1899-1935
+* Vasilopoulos K., Tayler W. (2018). Commercial Real Estate, Housing and the Business Cycle.
 
-## Education
+* Vasilopoulos K., Pavlidis E. (2018). Speculative Bubbles in the Chinese Stock Market: Evidence from Cross-listed Stocks.
 
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+# Projects & Research Groups
+
+* UK Housing Observatory [[link]](http://www.lancaster.ac.uk/lums/economics/research/housing/)
+
+* Centre for Financial Econometrics, Asset Markets and Macroeconomic Policy
+
+# IT Literacy
+
+* R: Advanced knowledge 
+
+* Python, Matlab, C++: Intermediate Knowledge
+
+* HTML, CSS: Basic knowledge of front-end development 
 
 
-# Publications
+# Conference Presentations
 
-## Books
+* The 12th International Conference on Computational and Financial Econometrics , University of Pisa, Pisa, 14-16 December 2018.
 
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
+* 4th International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2018
 
-## Journal Articles
+* North West Social Sciences Doctoral Training Partnership The University of Manchester, Manchester, May, 2018
 
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
+* 3rd International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2017
 
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
+# Grants, Awards, and Fellowships
 
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
+* Departmental Studentship Award, Lancaster University, 2016–2019
 
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
+* Scholarship awarded based on academic excellence, University of Macedonia
 
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
+# Teaching 
 
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
+ * TA, Econ222: Intermediate Macroeconomics 
+ 
+ * TA, Econ102: Principles of Economics B
 
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
+# Summer Schools, Workshops and Training
 
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
+* Summer School -  Advanced Courses on DSGE Macroeconomic Modelling, 4-8 Sept 2017, University of Surrey, UK. [[link]](https://www.surrey.ac.uk/events/20180903-foundations-and-advanced-courses-dsge-macroeconomic-modelling-and-conference-summer)
 
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
+* 4th Short Course: Dynamic Programming – Theory, Computation and Empirical Applications 
+July 04-08, 2016 Thessaloniki, Greece. [[link]](http://sce2016.uom.gr/)
 
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
-
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
-
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
-
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
-
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
-
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
-
-## Other Publications
-
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
-
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
 
 # References
 
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
+Available upon request
