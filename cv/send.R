@@ -1,4 +1,4 @@
-rmarkdown::render("cv/cv.Rmd")
+rmarkdown::render("cv/cv.Rmd", encoding = "UTF-8")
 
 file.copy(
   from =  "cv/cv.pdf",
