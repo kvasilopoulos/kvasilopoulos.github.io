@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio on ~ KV</title>
+    <link>/events/</link>
+    <description>Recent content in Bio on ~ KV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/events/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/events/cv/</guid>
+      <description>Kostas Vasilopoulos  Download Resume   Department of Economics, Lancaster University, Lancaster, LA1 4YX, United Kingdom 
+Education  Lancaster University, Ph.D. Economics \hfill Octomber 2016-
+ University of Macedonia, Greece, Ms.C. Economics \hfill Sept 2014- March 2016
+ University of Macedonia, Greece, Bs.C. Economics \hfill Sept 2009- Aug 2014
+  Research Interests  Macroeconomics, Real Estate Markets, Time Series Modeling, Credit Frictions, Dynamic Stochastic General Equilibrium (DSGE) modelling  Working Papers  Vasilopoulos K.</description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>/events/conferences/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/events/conferences/</guid>
+      <description> The 12th International Conference on Computational and Financial Econometrics (CFE 2018), University of Pisa, Pisa, 14-16 December 2018. 4th International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2018 North West Social Sciences Doctoral Training Partnership The University of Manchester, Manchester, May, 2018 3rd International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2017  </description>
+    </item>
+    
+    <item>
+      <title>Workshops &amp; Training</title>
+      <link>/events/workshops/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/events/workshops/</guid>
+      <description> Summer School - Advanced Courses on DSGE Macroeconomic Modelling, 4-8 Sept 2017, University of Surrey, UK. [link]
+ 4th Short Course: Dynamic Programming – Theory, Computation and Empirical Applications July 04-08, 2016 Thessaloniki, Greece. [link]
+  </description>
+    </item>
+    
+  </channel>
+</rss>

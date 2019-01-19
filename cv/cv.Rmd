@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Kostas Vasilopoulos
 
-jobtitle: "Ph.D. Candidate Lancaster University"
+jobtitle: Ph.D. Candidate Lancaster University
 #address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
 fontawesome: yes
 email: k.vasilopoulos@lancaster.ac.uk
@@ -26,6 +26,10 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+# Research Interests
+
+* Macroeconomics,   Real  Estate  Markets,   Time  Series Modeling, Credit Frictions, Dynamic Stochastic General Equilibrium (DSGE) modelling
+
 # Education
 
 * *Lancaster University*, Ph.D. Economics \hfill Oct 2016- Present
@@ -33,10 +37,6 @@ urlcolor: blue
 * *University of Macedonia, Greece*, Ms.C. Economics \hfill Sept 2014- March 2016
 
 * *University of Macedonia, Greece*, Bs.C. Economics \hfill Sept 2009- Aug 2014
-
-# Research Interests
-
-* Macroeconomics,   Real  Estate  Markets,   Time  Series Modeling, Credit Frictions, Dynamic Stochastic General Equilibrium (DSGE) modelling
 
 # Working Papers
 
@@ -59,7 +59,7 @@ urlcolor: blue
 
 * HTML/CSS: Basic knowledge
 
-# Technical Publication
+# Technical Publications
 
 *  Vasilopoulos Kostas, Pavlidis Themis, Spavound Simon and Matrínez-García Enríqeu(2019). exuber: Testing and Simulating Explosive Periods. R package version 0.2.0. https://CRAN.R-project.org/package=exuber
 
@@ -95,4 +95,4 @@ July 04-08, 2016 Thessaloniki, Greece. [[link]](http://sce2016.uom.gr/)
 
 # References
 
-Available upon request
+Available upon request, though likely would include Efthymios Pavlidis and William Tayler.

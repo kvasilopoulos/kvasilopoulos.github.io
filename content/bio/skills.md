@@ -26,7 +26,7 @@ weight = 1
   icon = "r-project"
   icon_pack = "fab"
   name = "R user"
-  description = "I have been an avid R user since 2010. I have used R both in the classroom as a professor, and in the lab as a scientist and NIH-funded Principal Investigator. You can find my current work for [RStudio Education on GitHub](https://github.com/rstudio-education)."
+  description = "I have been an avid R user since 2015. I have used R "
   
 [[feature]]
   icon = "apple-alt"

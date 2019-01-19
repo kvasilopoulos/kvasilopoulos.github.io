@@ -323,8 +323,8 @@ enableGitInfo = false
   
 #
 [[menu.main]]
-  name = "Conferences"
-  url = "/redirect/"
+  name = "Events"
+  url = "/events/"
   weight = 6
 
 #[[menu.main]]
@@ -335,7 +335,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -233,14 +233,18 @@ $endif$
               
               \vspace{2 mm}
               
+              \centerline{\normalsize $jobtitle$}
+              
+              \vspace{2 mm}
+              
               \hrule
               
               \vspace{2 mm}
               
-              $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
-                $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
+              % $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
+              $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
                 \moveleft.5\hoffset\centerline{ 
-                $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hspace{1 mm}$endif$ 
+              $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hspace{1 mm}$endif$ 
                 $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$}
                 \moveleft.5\hoffset\centerline{ 
                 $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hspace{1 mm} $endif$   
