@@ -13,7 +13,7 @@ jobtitle: Ph.D. Candidate Lancaster University
 fontawesome: yes
 email: k.vasilopoulos@lancaster.ac.uk
 github: kvasilopoulos
-phone: "+44 (0) 7554506227"
+phone: "+44 (0) 7392971743"
 web: kvasilopoulos.netlify.com
 updated: yes
 
