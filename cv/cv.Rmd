@@ -12,10 +12,11 @@ jobtitle: Ph.D. Candidate Lancaster University
 #address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
 fontawesome: yes
 email: k.vasilopoulos@lancaster.ac.uk
+email2: k.vasilopoulo@gmail.com
 github: kvasilopoulos
 phone: "+44 (0) 7392971743"
 web: kvasilopoulos.netlify.com
-updated: yes
+updated: no
 
 keywords: R Markdown, academic CV, template
 
@@ -49,6 +50,8 @@ urlcolor: blue
 
 * UK Housing Observatory [[link]](http://www.lancaster.ac.uk/lums/economics/research/housing/)
 
+* International Housing Observatory [[link]](https://lancs-macro.shinyapps.io/international-housing-observatory/)
+
 * Centre for Financial Econometrics, Asset Markets and Macroeconomic Policy
 
 # IT Literacy
@@ -61,7 +64,7 @@ urlcolor: blue
 
 # Technical Publications
 
-*  Vasilopoulos Kostas, Pavlidis Themis, Spavound Simon and Matrínez-García Enríqeu(2019). exuber: Testing and Simulating Explosive Periods. R package version 0.2.0. https://CRAN.R-project.org/package=exuber
+*   Vasilopoulos Kostas, Pavlidis Efthymios, Spavound Simon and Martínez-García Enríque (2019) exuber: Testing and Simulating Explosive Periods. R package version 0.2.1. https://CRAN.R-project.org/package=exuber
 
 # Conference Presentations
 

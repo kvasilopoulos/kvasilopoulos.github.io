@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>UK Housing Observatory</title>
-      <link>/project/housing_observatory/</link>
+      <title>International Housing Observatory</title>
+      <link>/project/international-housing-observatory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/housing_observatory/</guid>
+      <guid>/project/international-housing-observatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UK Housing Observatory</title>
+      <link>/project/uk-housing-observatory/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/uk-housing-observatory/</guid>
       <description></description>
     </item>
     
