@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on ~ KV</title>
+    <title>Demo on ~ Kostas Vasilopoulos</title>
     <link>/tags/demo/</link>
-    <description>Recent content in Demo on ~ KV</description>
+    <description>Recent content in Demo on ~ Kostas Vasilopoulos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,19 @@
     <item>
       <title>International Housing Observatory</title>
       <link>/project/international-housing-observatory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/project/international-housing-observatory/</guid>
-      <description></description>
+      <description>Understanding the  national house price dynamics.</description>
     </item>
     
     <item>
       <title>UK Housing Observatory</title>
       <link>/project/uk-housing-observatory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/project/uk-housing-observatory/</guid>
-      <description></description>
+      <description>Understanding the UK national and regional house price dynamics.</description>
     </item>
     
   </channel>
