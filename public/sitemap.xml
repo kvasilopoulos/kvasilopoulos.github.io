@@ -21,17 +21,17 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>/</loc>
       <lastmod>2018-09-09T00:00:00+03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>/</loc>
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+03:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
