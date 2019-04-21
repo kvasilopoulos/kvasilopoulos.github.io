@@ -39,4 +39,4 @@ weight = 5
 
 # Biography
 
-I am third-year Doctoral Student at Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. I examine the part of Commercial Real Estate in the economy and the interactions with the Housing market.
+I am a third-year Doctoral Student at Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. I examine the part of Commercial Real Estate in the economy and its interactions with the Housing market.
