@@ -34,6 +34,13 @@ weight = 50
       </a>
     </p>
   </div>
+  
+  <div class="column">
+    <p>
+      <img src="https://cranlogs.r-pkg.org/badges/grand-total/exuber" alt="CRAN_Status_Badge" />
+    </p>
+  </div>
+  
 </div>
 
 
@@ -50,6 +57,11 @@ weight = 50
     <p>
       <a href="https://cran.r-project.org/package=ivx" target="_blank">
       <img src="http://www.r-pkg.org/badges/version/ivx" alt="CRAN_Status_Badge" /></a></p>
+  </div>
+  <div class="column">
+    <p>
+      <img src="https://cranlogs.r-pkg.org/badges/grand-total/ivx" alt="CRAN_Status_Badge" />
+    </p>
   </div>
 </div>
 
