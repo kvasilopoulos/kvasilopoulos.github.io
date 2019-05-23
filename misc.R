@@ -15,6 +15,6 @@ hugo_version()
 
 # Bild site ---------------------------------------------------------------
 
-build_site()
+blogdown::build_site()
 
-serve_site()
+blogdown::serve_site()

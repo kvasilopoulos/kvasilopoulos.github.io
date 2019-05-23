@@ -12,41 +12,45 @@ subtitle = "R packages"
 
 # Order that this section will appear in.
 weight = 50
-
 +++
 
-### exuber : Econometric Analysis of Explosive Time Series
+<p style = "font-size:18px;margin-left:-8px; margin-bottom: 2rem;"> 
+  I am the author and the maintainer of the following packages on CRAN: 
+</p>
 
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<h4>
+  <i class="fas fa-cube"></i>
+  <a href = "https://kvasilopoulos.github.io/exuber/" target="_blank">
+    &nbsp; exuber : Econometric Analysis of Explosive Time Series 
+  </a>
+</h4>
 
 <div class="row">
-
   <div class="column">
-    <p><a href="https://cran.r-project.org/package=exuber"><img src="http://www.r-pkg.org/badges/version/exuber" alt="CRAN_Status_Badge" /></a></p>
+    <p>
+      <a href="https://cran.r-project.org/package=exuber" target="_blank">
+        <img src="http://www.r-pkg.org/badges/version/exuber" alt="CRAN_Status_Badge" />
+      </a>
+    </p>
   </div>
-  
 </div>
 
 
-> Testing for and dating periods of explosive dynamics (exuberance) in time series using the univariate and panel recursive unit root tests proposed by Phillips et al. (2015) <doi:10.1111/iere.12132> and Pavlidis et al. (2016) <doi:10.1007/s11146-015-9531-2>. The recursive least-squares algorithm utilizes the matrix inversion lemma to avoid matrix inversion which results in significant speed improvements. Simulation of a variety of periodically-collapsing bubble processes.
+<h4> 
+  <i class="fas fa-cube"></i> 
+  <a href = "https://kvasilopoulos.github.io/ivx/" target="_blank">
+    &nbsp; ivx : Robust Econometric Inference 
+  </a>
+</h4>
 
 
 <div class="row">
-  
   <div class="column">
-   <a class="github-button" href="https://github.com/kvasilopoulos/exuber" data-size="large"
-    aria-label="Follow @kvasilopoulos on GitHub">Github repo</a>
+    <p>
+      <a href="https://cran.r-project.org/package=ivx" target="_blank">
+      <img src="http://www.r-pkg.org/badges/version/ivx" alt="CRAN_Status_Badge" /></a></p>
   </div>
-  
-  <div class="column">
-<a class="github-button" href="https://github.com/kvasilopoulos/exuber" data-icon="octicon-star" data-size="large" aria-label="Star kvasilopoulos/exuber on GitHub">Star</a>
-  </div>
-  
-  <div class="column">
-<a class="github-button" href="https://github.com/kvasilopoulos/exuber/subscription" data-icon="octicon-eye" data-size="large" aria-label="Watch kvasilopoulos/exuber on GitHub">Watch</a>
-  </div>
-  
 </div>
 
 
