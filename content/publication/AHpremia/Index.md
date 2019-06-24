@@ -1,6 +1,6 @@
 +++
 title = "Speculative Bubbles in the Chinese Stock Market: Evidence from Cross-listed Stocks"
-date = 2018-06-07T00:47:09+01:00
+date = 2019-06-07T00:47:09+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
