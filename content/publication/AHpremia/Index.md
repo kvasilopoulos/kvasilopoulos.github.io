@@ -1,10 +1,10 @@
 +++
-title = "Speculative Bubbles in the Chinese Stock Market: Evidence from Cross-listed Stocks"
+title = "Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks"
 date = 2019-06-07T00:47:09+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vasilopoulos K.", "Pavlidis E."]
+authors = ["Pavlidis E.", "Vasilopoulos K."]
 
 # Publication type.
 # Legend:
@@ -25,7 +25,7 @@ publication = "" # this appears in the pop-up
 publication_short = "" # this appears in the main page
 
 # Abstract and optional shortened version.
-abstract = "During the last few decades, the Chinese stock market has experienced great turbulence, with periods of rapid price increases followed by severe market crashes. An explanation for this volatile behavior is that of speculative bubbles. Although popular, this hypothesis is difficult to examine. The reason is that most econometric tests for bubbles actually examine a composite hypothesis: bubbles and a correctly specified model for market fundamentals. Because rejection of the null may be solely due to model misspecification, these tests are inconclusive.  We propose a novel approach that utilizes information in the prices of dual-listed companies to alleviate this problem. The basic idea is that stocks that trade both in the Shenzen-Shangai and the Hong Kong markets have the same underlying fundamentals and, therefore, divergence in their prices must reflect speculative dynamics. By applying the recently developed recursive unit root method of Phillips et al (2015) to a large number of dual-listed stocks, we find strong evidence in favor of bubbles in the Chinese stock market."
+abstract = "We propose a novel approach for testing for rational speculative bubbles in segmented capital markets. The basic idea is that, under capital controls, heterogeneity of speculative expectations across international equity markets causes financial assets with identical cash flow promises to trade at different prices. Because these deviations from the law of one price inherit the properties of the speculative bubble process, they display periods of explosive dynamics and have predictive power for future movements in equity prices in sample. These two hypotheses can be examined empirically using sequential unit root tests and predictive regressions. An attractive feature of this approach for bubble detection is that it does not require the specification of a model for market fundamentals, thus mitigating the well-known joint hypothesis problem. The focus of the paper is on mainland Chinese companies that cross list shares in Hong Kong. China is an ideal setting for our analysis because of the significant restrictions on capital movements imposed by the authorities and the turbulent behaviour of its stock market over the last decades."
 
 abstract_short = ""
 
@@ -46,7 +46,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/AH-Premium.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
