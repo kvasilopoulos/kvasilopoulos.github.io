@@ -163,7 +163,7 @@ enableGitInfo = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
-   highlight_languages = ["r", "yaml"]
+  highlight_languages = ["r", "yaml"]
   highlight_style = "atelier-cave-light"
   highlight_version = "9.12.0"
 
@@ -262,10 +262,20 @@ enableGitInfo = false
     link = "https://www.linkedin.com/in/kostas-vasilopoulos-130718128/"
 
   #[[params.social]]
-  #  icon = "google-scholar"
+  #  icon = "ideas-repec"
   #  icon_pack = "ai"
   #  link = "https://scholar.google.gr/citations?user=XVJjACsAAAAJ&hl=en"
-
+  
+  #[[params.social]]
+  #  icon = "orcid"
+  #  icon_pack = "ai"
+  #  link = "https://github.com/kvasilopoulos"
+    
+  #[[params.social]]
+  #  icon = "google-scholar"
+  #  icon_pack = "ai"
+  #  link = "https://github.com/kvasilopoulos"
+    
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
@@ -276,12 +286,6 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "files/cv.pdf"
 
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -373,17 +377,29 @@ enableGitInfo = false
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
+#[languages.en]
+#  languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
-#  [[languages.zh.menu.main]]
-#    name = "Wo"
+#[languages.el]
+#  languageCode = "el.Greek"
+#  title = "Κώστας Βασιλόπουλος"
+#  [language.el.params]
+#    name = "Κώστας Βασιλόπουλος"  
+#    role = "Υποψήφιος Διδάκτορας"
+#    organizations = [ { name = "Lancaster University", url = "http://www.lancaster.ac.uk/" } ]
+#    gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+#    avatar = "kostas2.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+#    email = "k.vasilopoulos@lancaster.ac.uk"
+#    address = "B81, LUMS, Lancaster University, Lancaster, LA1 4YW, UK"
+#    office_hours = "Friday 12:00 to 13:00 or email for appointment"
+#    phone = "+44(0)7554506227 "
+#    skype = "k.vasilopoulos@lancaster.ac.uk"
+#    telegram = ""
+#    keybase = ""
+#  [language.el.params.menus]
+#    align_right = true
+#  [[languages.el.menu.main]]
+#    name = "Home"
 #    url = "#about"
 #    weight = 1

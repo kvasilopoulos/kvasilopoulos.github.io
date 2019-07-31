@@ -46,7 +46,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/AH-Premium.pdf"
+url_pdf = "files/AH-Premium-working-paper.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
