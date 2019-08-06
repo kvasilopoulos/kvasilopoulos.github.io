@@ -43,7 +43,7 @@ urlcolor: blue
 
 * Vasilopoulos K., Tayler W. (2019). Commercial Real Estate, Housing and the Business Cycle.
 
-* Vasilopoulos K., Pavlidis E. (2019). Speculative Bubbles in the Chinese Stock Market: Evidence from Cross-listed Stocks.
+* Vasilopoulos K., Pavlidis E. (2019). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks.
 
 
 # Projects & Research Groups
@@ -64,14 +64,15 @@ urlcolor: blue
 
 # Technical Publications
 
-*   Vasilopoulos Kostas, Pavlidis Efthymios, Spavound Simon and Martínez-García Enríque (2019) exuber: Testing and Simulating Explosive Periods. R package version 0.2.1. https://CRAN.R-project.org/package=exuber
+*   Vasilopoulos Kostas, Pavlidis Efthymios, Spavound Simon and Martínez-García Enríque (2019) exuber: Testing and Simulating Explosive Periods. R package version 0.3.0. https://CRAN.R-project.org/package=exuber
+
+*   Vasilopoulos Kostas and Pavlidis Efthymios (2019) ivx: Robust Econometric Inference. R package version 1.0.0.9000. https://CRAN.R-project.org/package=ivx
 
 # Conference Presentations
 
 * 3rd Annual International Conference on Macroeconomic Analysis and International Finance, Rethymno, May, 2019
 
 * North West Social Sciences Doctoral Training Partnership, Lancaster University, Lancaster, May, 2019
-
 
 * 5th International Conference on Applied Theory, Macro and Empirical Finance,
 University of Macedonia, Thessaloniki, April 2019
