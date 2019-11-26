@@ -5,8 +5,8 @@
     <link>/home/</link>
     <description>Recent content in Homes on Kostas Vasilopoulos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <copyright>&amp;copy; 2018-2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -22,29 +22,29 @@
     
     <item>
       <title></title>
-      <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/hero/</guid>
-      <description>Latest release   Star   -- </description>
+      <guid>/home/about/</guid>
+      <description>Welcome ! My name is Kostas, I am a macroeconomist and PhD candidate in Economics at Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. In particular, I examine the part of Commercial Real Estate in the economy and its interaction with the Housing market.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/news/</guid>
+      <description>I want to add</description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
-      <guid>/home/about/</guid>
-      <description>Biography I am a third-year Doctoral Student at Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. I examine the part of Commercial Real Estate in the economy and its interaction with the Housing market.</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/home/skills/</guid>
-      <description></description>
+      <guid>/home/hero/</guid>
+      <description>Latest release   Star   -- </description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Working Papers</title>
       <link>/home/publication_working_papers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/publication_working_papers/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Selected Talks</title>
       <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/talks_selected/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Work in Progress</title>
       <link>/home/publication_work_in_progress/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/publication_work_in_progress/</guid>
       <description></description>
@@ -113,9 +113,18 @@
     <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
@@ -125,22 +134,13 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/codes/</guid>
-      <description>I am the author and the maintainer of the following packages on CRAN:   &amp;nbsp; exuber : Econometric Analysis of Explosive Time Series   Testing for and dating periods of explosive dynamics (exuberance) in time series using the univariate and panel recursive unit root tests proposed by Phillips et al. (2015) and Pavlidis et al. (2016). The recursive least-squares algorithm utilizes the matrix inversion lemma to avoid matrix inversion which results in significant speed improvements.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description></description>
+      <description>I am the author and the maintainer of the following packages on CRAN: Statistical Packages --  &amp;nbsp; exuber : Econometric Analysis of Explosive Time Series    &amp;nbsp; ivx : Robust Econometric Inference     &amp;nbsp; ihpdr : Download Data from the International House Price Database   For a comprehensive list you can see here.  Simulate a variety of periodically-collapsing bubble models. The estimation  and simulation utilize the matrix inversion lemma from the recursive least squares  algorithm, which results in a significant speed improvement.</description>
     </item>
     
     <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/teaching/</guid>
       <description>Graduate Teaching Assistant: Lancaster University Management School
@@ -150,7 +150,7 @@
     <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
@@ -159,7 +159,7 @@
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>

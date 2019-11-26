@@ -13,7 +13,7 @@ title = "Kostas Vasilopoulos"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018-2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -65,7 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "k.vasilopoulos@lancaster.ac.uk"
   address = "B81, LUMS, Lancaster University, Lancaster, LA1 4YW, UK"
-  office_hours = "Friday 12:00 to 13:00 or email for appointment"
+  office_hours = ""
   phone = "+44(0)7554506227 "
   skype = "k.vasilopoulos@lancaster.ac.uk"
   telegram = ""
@@ -106,10 +106,10 @@ enableGitInfo = false
   font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Kostas Vasilopoulos Ph.D. Economics"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "kostas.jpeg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = ""
@@ -178,7 +178,7 @@ enableGitInfo = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = ["custom.css"]
-  custom_js  = []
+  custom_js  = ["code-template.js"]
 
   # Publication types.
   #   Used to categorize publications.
@@ -300,10 +300,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
- [[menu.main]]
-  name = "Bio"
-  url = "/bio/"
-  weight = 2
+# [[menu.main]]
+#  name = "Bio"
+#  url = "/bio/"
+#  weight = 2
 
 #[[menu.main]]
 #  name = "Publications"
@@ -315,10 +315,10 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-# [[menu.main]]
-#  name = "Codes"
-#  url = "#codes"
-#  weight = 4
+[[menu.main]]
+  name = "Codes"
+  url = "/codes/"
+  weight = 3
 
 #[[menu.main]]
 #  name = "Projects"
@@ -329,25 +329,28 @@ enableGitInfo = false
 [[menu.main]]
   name = "Events"
   url = "/events/"
-  weight = 6
+  weight = 4
+  
 
 #[[menu.main]]
 #  name = "Teaching"
 #  url = "#teaching" #/tutorial/
 #  weight = 5
 
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[menu.main]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 6
+  
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 7
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#  name = "CV"
-#  url = "files/cv.pdf"
-#  weight = 7
-  
+
  
 
 # Search.

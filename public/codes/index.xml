@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio on Kostas Vasilopoulos</title>
+    <link>/codes/</link>
+    <description>Recent content in Bio on Kostas Vasilopoulos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018-2019</copyright>
+    <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/codes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Skills</title>
+      <link>/codes/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/codes/skills/</guid>
+      <description> -- </description>
+    </item>
+    
+    <item>
+      <title>Published</title>
+      <link>/codes/published/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/codes/published/</guid>
+      <description>Statistical Packages   &amp;nbsp; exuber : Econometric Analysis of Explosive Time Series   Testing for and dating periods of explosive dynamics (exuberance) in time series using the univariate and panel recursive unit root tests proposed by Phillips et al. (2015) and Pavlidis et al. (2016). The recursive least-squares algorithm utilizes the matrix inversion lemma to avoid matrix inversion which results in significant speed improvements. Simulation of a variety of periodically-collapsing bubble processes.</description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/codes/development/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/codes/development/</guid>
+      <description>Statistical Packages   &amp;nbsp; abvar : All aBout Vector Autoregression  {abvar} provides common infrastructure and estimation methods for Vector Autoregressive models. The goal is to include all possible variants of VAR in a singular package.   
+   Interface and functionality   &amp;nbsp; matlaber : Matlab Interface From R  Provides an interface to matlab systems. Requires matlab to be installed locally.</description>
+    </item>
+    
+  </channel>
+</rss>

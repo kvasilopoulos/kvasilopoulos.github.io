@@ -11,6 +11,28 @@
     
   
     
+  
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/0/</loc>
+      <lastmod>2019-06-07T00:47:09+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2019-06-07T00:47:09+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
     <url>
     
       <loc>/publication_types/7/</loc>
@@ -56,6 +78,14 @@
     
     <url>
     
+      <loc>/publication/real-estate-mp/index/</loc>
+      <lastmod>2019-06-07T00:47:09+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/ahpremia/index/</loc>
       <lastmod>2019-06-07T00:47:09+01:00</lastmod>
     </url>
@@ -64,8 +94,16 @@
     
     <url>
     
+      <loc>/publication/template/index/</loc>
+      <lastmod>2019-06-07T00:47:09+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+03:00</lastmod>
+      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -73,7 +111,7 @@
     <url>
     
       <loc>/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+03:00</lastmod>
+      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -81,7 +119,7 @@
     <url>
     
       <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00+03:00</lastmod>
+      <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -89,7 +127,15 @@
     <url>
     
       <loc>/bio/</loc>
-      <lastmod>2017-09-20T00:00:00+03:00</lastmod>
+      <lastmod>2017-09-20T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/codes/</loc>
+      <lastmod>2017-09-20T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -97,7 +143,7 @@
     <url>
     
       <loc>/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -105,7 +151,7 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -121,7 +167,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -129,7 +175,7 @@
     <url>
     
       <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -138,7 +184,7 @@
     <url>
     
       <loc>/project/international-housing-observatory/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -146,7 +192,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -155,7 +201,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -164,7 +210,7 @@
     <url>
     
       <loc>/project/uk-housing-observatory/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -180,7 +226,7 @@
     <url>
     
       <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -189,7 +235,7 @@
     <url>
     
       <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
     </url>
     
   

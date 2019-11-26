@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
@@ -37,6 +37,6 @@ weight = 5
  
 +++
 
-# Biography
-
-I am a third-year Doctoral Student at Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. I examine the part of Commercial Real Estate in the economy and its interaction with the Housing market.
+# Welcome !
+ 
+My name is Kostas, I am a macroeconomist and PhD candidate in Economics at Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. In particular, I examine the part of Commercial Real Estate in the economy and its interaction with the Housing market.

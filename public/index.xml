@@ -4,18 +4,9 @@
     <link>/</link>
     <description>Recent content in Kostas Vasilopoulos on Kostas Vasilopoulos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018-2019</copyright>
     <lastBuildDate>Fri, 07 Jun 2019 00:47:09 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Skills</title>
-      <link>/bio/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/bio/skills/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Experience</title>
@@ -27,109 +18,324 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/events/cv/</link>
+      <title>Skills</title>
+      <link>/bio/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/bio/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Skills</title>
+      <link>/codes/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/codes/skills/</guid>
+      <description>&lt;!--
+&lt;iframe id=&#34;example1&#34;
+src=&#34;https://lancs-macro.shinyapps.io/international-housing-observatory&#34;
+style=&#34;border: none; width: 100%; height: 850px&#34; seamless
+frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Published</title>
+      <link>/codes/published/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/events/cv/</guid>
-      <description>
+      <guid>/codes/published/</guid>
+      <description>&lt;!-- Statistical Packages --&gt;
 
-&lt;!-- Remember the root is /content --&gt;
+&lt;p style = &#34;font-size:22px;font-weight: bold;margin-left:-2em; margin-bottom: 1rem;color:grey;&#34;&gt; 
+  &lt;i class=&#34;fas fa-angle-double-right&#34;&gt;&lt;/i&gt;
+  Statistical Packages
+&lt;/p&gt;
 
-&lt;h1 id=&#34;kostas-vasilopoulos&#34;&gt;Kostas Vasilopoulos&lt;/h1&gt;
+&lt;!-- exuber --&gt;
 
-&lt;p&gt;&lt;a href=/files/cv.pdf style=&#34;float: right;&#34;&gt; &lt;sub&gt; Download Resume &lt;sub&gt;&lt;/a&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt;
+  &lt;a href = &#34;https://kvasilopoulos.github.io/exuber/&#34; target=&#34;_blank&#34;&gt;
+    &amp;nbsp; exuber : Econometric Analysis of Explosive Time Series 
+  &lt;/a&gt;
+&lt;/h4&gt;
 
-&lt;hr /&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    Testing for and dating periods of explosive dynamics (exuberance) in time series 
+    using the univariate and panel recursive unit root tests proposed by 
+    &lt;a href = &#34;https://doi.org/10.1111/iere.12132&#34; target= &#34;_blank&#34;&gt; Phillips et al. (2015) &lt;/a&gt;and  &lt;a href = &#34; https://doi.org/10.1007/s11146-015-9531-2&#34; target=&#34;_blank&#34;&gt; Pavlidis et al. (2016)&lt;/a&gt;. The recursive least-squares algorithm utilizes the matrix inversion lemma to avoid matrix inversion which results in significant speed improvements. Simulation of a variety of periodically-collapsing bubble processes.
+  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;sub&gt; Department of Economics, Lancaster University, Lancaster, LA1 4YX, United Kingdom
-&lt;sub&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=exuber&#34; target=&#34;_blank&#34;&gt;
+        &lt;img src=&#34;http://www.r-pkg.org/badges/version/exuber&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
+      &lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+  
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/exuber&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Lancaster University&lt;/em&gt;, Ph.D. Economics \hfill Octomber 2016-&lt;/p&gt;&lt;/li&gt;
+&lt;!-- ivx --&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;em&gt;University of Macedonia, Greece&lt;/em&gt;, Ms.C. Economics \hfill Sept 2014- March 2016&lt;/p&gt;&lt;/li&gt;
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+  &lt;a href = &#34;https://kvasilopoulos.github.io/ivx/&#34; target=&#34;_blank&#34;&gt;
+    &amp;nbsp; ivx : Robust Econometric Inference 
+  &lt;/a&gt;
+&lt;/h4&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;em&gt;University of Macedonia, Greece&lt;/em&gt;, Bs.C. Economics \hfill Sept 2009- Aug 2014&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    Drawing statistical inference on the coefficients of a short- or long-horizon 
+    predictive regression with persistent regressors by using the IVX method of 
+    &lt;a href=&#34;https://doi.org/10.1017/S0266466608090154&#34; target=&#34;_blank&#34;&gt; Magdalinos and Phillips (2009) &lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1093/rfs/hhu139&#34; target=&#34;_blank&#34;&gt; Kostakis, Magdalinos and Stamatogiannis (2015) &lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;h1 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h1&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=ivx&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/ivx&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/ivx&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Macroeconomics,   Real  Estate  Markets,   Time  Series Modeling, Credit Frictions, Dynamic Stochastic General Equilibrium (DSGE) modelling&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- Data Related Packages --&gt;
 
-&lt;h1 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h1&gt;
+&lt;p style = &#34;font-size:22px;font-weight: bold;margin-left:-2em; margin-top:2rem; margin-bottom: 1rem;color:grey;&#34;&gt; 
+  &lt;i class=&#34;fas fa-angle-double-right&#34;&gt;&lt;/i&gt;
+  Data Related Packages
+&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Vasilopoulos K., Tayler W. (2018). Commercial Real Estate, Housing and the Business Cycle.&lt;/p&gt;&lt;/li&gt;
+&lt;!-- ihpdr --&gt;
 
-&lt;li&gt;&lt;p&gt;Vasilopoulos K., Pavlidis E. (2018). Speculative Bubbles in the Chinese Stock Market: Evidence from Cross-listed Stocks.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+  &lt;a  href = &#34;https://github.com/kvasilopoulos/ihpdr&#34; target=&#34;_blank&#34;&gt; &amp;nbsp; ihpdr : Download Data from the International House Price Database &lt;/a&gt;  
+&lt;/h4&gt;
 
-&lt;h1 id=&#34;projects-research-groups&#34;&gt;Projects &amp;amp; Research Groups&lt;/h1&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    Web scraping the &lt;a href = &#34;https://www.dallasfed.org&#34; target=&#34;_blank&#34;&gt;Dallas Fed &lt;/a&gt; for up-to-date data on international house prices and exuberance. Download data in tidy format.
+  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;UK Housing Observatory &lt;a href=&#34;http://www.lancaster.ac.uk/lums/economics/research/housing/&#34; target=&#34;_blank&#34;&gt;[link]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=ihpdr&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/ihpdr&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/ihpdr&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;li&gt;&lt;p&gt;Centre for Financial Econometrics, Asset Markets and Macroeconomic Policy&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- nationwider --&gt;
 
-&lt;h1 id=&#34;it-literacy&#34;&gt;IT Literacy&lt;/h1&gt;
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+  &lt;a  href = &#34;https://github.com/kvasilopoulos/ihpdr&#34; target=&#34;_blank&#34;&gt; &amp;nbsp; nationwider: Download House Price Data From Nationwide &lt;/a&gt; 
+&lt;/h4&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;R: Advanced knowledge&lt;/p&gt;&lt;/li&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    Web craping the &lt;a href=&#34;https://www.nationwide.co.uk/&#34; target=&#34;_blank&#34;&gt;nationwide &lt;/a&gt; for up-to-date data on house price indices. Download data in tidy format.
+  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;li&gt;&lt;p&gt;Python, Matlab, C++: Intermediate Knowledge&lt;/p&gt;&lt;/li&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=nationwider&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/nationwider&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/nationwider&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/codes/development/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/codes/development/</guid>
+      <description>&lt;p style = &#34;font-size:22px;font-weight: bold;margin-left:-2em; margin-top:1.5em; margin-bottom: 1rem;color:grey;&#34;&gt; 
+  &lt;i class=&#34;fas fa-angle-double-right&#34;&gt;&lt;/i&gt;
+  Statistical Packages
+&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;HTML, CSS: Basic knowledge of front-end development&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- abvar --&gt;
 
-&lt;h1 id=&#34;conference-presentations&#34;&gt;Conference Presentations&lt;/h1&gt;
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+    &amp;nbsp; abvar : All aBout Vector Autoregression
+&lt;/h4&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The 12th International Conference on Computational and Financial Econometrics , University of Pisa, Pisa, 14-16 December 2018.&lt;/p&gt;&lt;/li&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    {abvar} provides common infrastructure and estimation methods for Vector Autoregressive models. The 
+    goal is to include all possible variants of VAR in a singular package.
+  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;li&gt;&lt;p&gt;4th International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2018&lt;/p&gt;&lt;/li&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=abvar&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/abvar&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;li&gt;&lt;p&gt;North West Social Sciences Doctoral Training Partnership The University of Manchester, Manchester, May, 2018&lt;/p&gt;&lt;/li&gt;
+&lt;!-- Interfaces --&gt;
 
-&lt;li&gt;&lt;p&gt;3rd International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2017&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p style = &#34;font-size:22px;font-weight: bold;margin-left:-2em; margin-top:1.5em; margin-bottom: 1rem;color:grey;&#34;&gt; 
+  &lt;i class=&#34;fas fa-angle-double-right&#34;&gt;&lt;/i&gt;
+  Interface and functionality
+&lt;/p&gt;
 
-&lt;h1 id=&#34;grants-awards-and-fellowships&#34;&gt;Grants, Awards, and Fellowships&lt;/h1&gt;
+&lt;!-- matlaber --&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Departmental Studentship Award, Lancaster University, 2016–2019&lt;/p&gt;&lt;/li&gt;
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+    &amp;nbsp; matlaber : Matlab Interface From R
+&lt;/h4&gt;
 
-&lt;li&gt;&lt;p&gt;Scholarship awarded based on academic excellence, University of Macedonia&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    Provides an interface to matlab systems. Requires matlab to be installed locally.
+  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=matlaber&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/matlaber&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;TA, Econ222: Intermediate Macroeconomics&lt;/p&gt;&lt;/li&gt;
+&lt;!-- dynarer --&gt;
 
-&lt;li&gt;&lt;p&gt;TA, Econ102: Principles of Economics B&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+    &amp;nbsp; dynarer : Dynare Interface From R
+&lt;/h4&gt;
 
-&lt;h1 id=&#34;summer-schools-workshops-and-training&#34;&gt;Summer Schools, Workshops and Training&lt;/h1&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    Provides an interface to dynare. Requires matlab and dynare to be installed locally.
+  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Summer School -  Advanced Courses on DSGE Macroeconomic Modelling, 4-8 Sept 2017, University of Surrey, UK. &lt;a href=&#34;https://www.surrey.ac.uk/events/20180903-foundations-and-advanced-courses-dsge-macroeconomic-modelling-and-conference-summer&#34; target=&#34;_blank&#34;&gt;[link]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=dynarer&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/dynarer&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;li&gt;&lt;p&gt;4th Short Course: Dynamic Programming – Theory, Computation and Empirical Applications
-July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#34; target=&#34;_blank&#34;&gt;[link]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- transfer --&gt;
 
-&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+    &amp;nbsp; transfer : R client for easy file sharing with &amp;lt transfer.sh &amp;gt
+&lt;/h4&gt;
 
-&lt;p&gt;Available upon request&lt;/p&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    R client for uploading files to transfer.sh
+    (https://transfer.sh/).  {transfer} send file (or files, in case of
+    directory upload) to transfer.sh, and provides link to uploaded files,
+    so it could be easily shared.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=transfer&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/transfer&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Data Related --&gt;
+
+&lt;p style = &#34;font-size:22px;font-weight: bold;margin-left:-2em; margin-top:1.5em; margin-bottom: 1rem;color:grey;&#34;&gt; 
+  &lt;i class=&#34;fas fa-angle-double-right&#34;&gt;&lt;/i&gt;
+  Data Related
+&lt;/p&gt;
+
+&lt;!-- econdata --&gt;
+
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+    &amp;nbsp; econdata: Curated list of economic datasets
+&lt;/h4&gt;
+
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    In Economics authors have collected their own research data or used external datasets. The goal of {econodata} is to provide a curated list of datasets that are used in the most influential economic papers.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=econdata&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/econdata&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- uklr --&gt;
+
+&lt;h4&gt; 
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
+    &amp;nbsp; uklr: R Client to United Kingdom Land Registry
+&lt;/h4&gt;
+
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    Access data from HM Land Registry Open Data through
+    SPARQL queries.  {uklr} supports the UK HPI, Transaction Data and
+    Price Paid Data.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=uklr&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;http://www.r-pkg.org/badges/version/uklr&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -177,6 +383,15 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     </item>
     
     <item>
+      <title>Real Estate and Monetary Policy: Residential and Commercial</title>
+      <link>/publication/real-estate-mp/index/</link>
+      <pubDate>Fri, 07 Jun 2019 00:47:09 +0100</pubDate>
+      
+      <guid>/publication/real-estate-mp/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks</title>
       <link>/publication/ahpremia/index/</link>
       <pubDate>Fri, 07 Jun 2019 00:47:09 +0100</pubDate>
@@ -186,9 +401,18 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     </item>
     
     <item>
+      <title>Title goes here</title>
+      <link>/publication/template/index/</link>
+      <pubDate>Fri, 07 Jun 2019 00:47:09 +0100</pubDate>
+      
+      <guid>/publication/template/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0300</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
@@ -208,7 +432,7 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0300</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -218,7 +442,7 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -274,447 +498,6 @@ Click on the **Slides** button above to view the built-in slides feature.
 &lt;ol&gt;
 &lt;li id=&#34;fn:This-is-because&#34;&gt;This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., &lt;code&gt;\$50 and $100&lt;/code&gt; renders &amp;ldquo;\$50 and $100&amp;rdquo;. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:This-is-because&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>International Housing Observatory</title>
-      <link>/project/international-housing-observatory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/project/international-housing-observatory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UK Housing Observatory</title>
-      <link>/project/uk-housing-observatory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/project/uk-housing-observatory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
-
-&lt;p&gt;Follow our easy &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34;&gt;step by step guide&lt;/a&gt; to learn how to build your own free website with Academic. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the personal demo&lt;/a&gt; or the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;business demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>

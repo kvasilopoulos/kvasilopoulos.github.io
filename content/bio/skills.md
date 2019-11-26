@@ -10,7 +10,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 1
+weight = 2
 
 # Showcase personal skills or business features.
 # 
@@ -21,18 +21,54 @@ weight = 1
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Economics"
+  description = ""
+ 
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Time Series"
+  description = ""  
+  
+[[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "DSGE"
+  description = ""
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R user"
-  description = "I have been an avid R user since 2015. I have used R "
+  description = "I have been an R user since 2015. I have used R "
   
 [[feature]]
-  icon = "drafting-compass"
+  icon = "terminal"
   icon_pack = "fas"
-  name = "Data Visualization & Statistics"
-  description = "I love exploring, analyzing, and [visualizing data](https://apreshill.github.io/data-vis-labs-2018/). Lately, I enjoy visualizing ['The Great British Bake Off'](https://alison.netlify.com/uo-tidy-bakeoff/#1) (you can too with [my R package!](http://bakeoff.netlify.com/)), and talking about how to [take a sad plot and make it better](../talk/ohsu-biodatavis)."
+  name = "Coding"
+  description = ""
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Web Development"
+  description = ""
+
+  
+# [[feature]]
+#  icon = "language"
+#  icon-pack = "fas"
+#  name = "Languages"
+# description = "Iam"
+  
+#[[feature]]
+#  icon = "drafting-compass"
+#  icon_pack = "fas"
+#  name = "Data Visualization & Statistics"
+#  description = "I love exploring, analyzing, and [visualizing data](https://apreshill.github.io/data-vis-labs-2018/). Lately, I enjoy visualizing ['The Great British Bake Off'](https://alison.netlify.com/uo-tidy-bakeoff/#1) (you can too with [my R package!](http://bakeoff.netlify.com/)), and talking about how to [take a sad plot and make it better](../talk/ohsu-biodatavis)."
 
   
 # [[feature]]
@@ -54,12 +90,12 @@ weight = 1
 #   description = "I have presented original research at over 25 international conferences. Recently, I gave a keynote at the [2018 Cascadia R Conf in Portland, Oregon](../talk/cascadia-r-keynote/), and have an upcoming keynote for the 2019 [Young Statisticians Conference in Canberra, Australia](http://ysc2019.netlify.com/)."
   
 
-# [[feature]]
+#[[feature]]
 #   icon = "flask"
 #   icon_pack = "fas"
 #   name = "Scientist"
 #   description = "I studied developmental psychology and quantitative methods, finishing my PhD in 2008. [My research](https://profiles.impactstory.org/u/0000-0002-8082-1890) focused on health-related applications of Natural Language Processing-based methods, and has been funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks."
 
-
 +++
+
 
