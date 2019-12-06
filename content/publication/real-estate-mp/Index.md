@@ -1,7 +1,7 @@
 +++
 title = "Real Estate and Monetary Policy: Residential and Commercial"
 date = 2019-06-07T00:47:09+01:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Vasilopoulos K."]
