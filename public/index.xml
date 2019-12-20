@@ -20,7 +20,7 @@
     <item>
       <title>Skills</title>
       <link>/bio/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
       
       <guid>/bio/skills/</guid>
       <description></description>
@@ -29,7 +29,7 @@
     <item>
       <title>Software Skills</title>
       <link>/codes/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
       
       <guid>/codes/skills/</guid>
       <description>&lt;!--
@@ -75,7 +75,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=exuber&#34; target=&#34;_blank&#34;&gt;
-        &lt;img src=&#34;http://www.r-pkg.org/badges/version/exuber&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
+        &lt;img src=&#34;https://www.r-pkg.org/badges/version/exuber&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
       &lt;/a&gt;
     &lt;/p&gt;
   &lt;/div&gt;
@@ -110,7 +110,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=ivx&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/ivx&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/ivx&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
@@ -143,7 +143,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=ihpdr&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/ihpdr&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/ihpdr&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
@@ -156,7 +156,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 
 &lt;h4&gt; 
   &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
-  &lt;a  href = &#34;https://github.com/kvasilopoulos/ihpdr&#34; target=&#34;_blank&#34;&gt; &amp;nbsp; nationwider: Download House Price Data From Nationwide &lt;/a&gt; 
+  &lt;a  href = &#34;https://github.com/kvasilopoulos/ihpdr&#34; target=&#34;_blank&#34;&gt; &amp;nbsp; nationwider: Download House Price Data from Nationwide &lt;/a&gt; 
 &lt;/h4&gt;
 
 &lt;div style = &#34;padding-left:15px;&#34;&gt;
@@ -169,11 +169,37 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=nationwider&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/nationwider&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/nationwider&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/nationwider&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- uklr --&gt;
+
+&lt;p&gt;&lt;h4&gt;
+  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt;
+  &lt;a  href = &#34;https://kvasilopoulos.github.io/uklr/&#34; target=&#34;_blank&#34;&gt; &amp;nbsp; uklr:  R Client to United Kingdom Land Registry &lt;/a&gt;
+&lt;/h4&gt;
+&lt;div style = &#34;padding-left:15px;&#34;&gt;
+  &lt;p style = &#34;font-size:14px;&#34;&gt;
+    Access data from &lt;a href=&#34;https://landregistry.data.gov.uk/&#34; target=&#34;_blank&#34;&gt;Land Registry Open Data&lt;/a&gt;
+    through SPARQL queries. &amp;lsquo;uklr&amp;rsquo; supports the house price index, transaction and price paid data.
+  &lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://cran.r-project.org/package=uklr&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/uklr&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;p&gt;
+      &lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/uklr&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -209,7 +235,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=abvar&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/abvar&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/abvar&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -237,7 +263,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=matlaber&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/matlaber&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/matlaber&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -258,7 +284,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=dynarer&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/dynarer&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/dynarer&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -282,7 +308,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=transfer&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/transfer&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/transfer&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -310,30 +336,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
   &lt;div class=&#34;column&#34;&gt;
     &lt;p&gt;
       &lt;a href=&#34;https://cran.r-project.org/package=econdata&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/econdata&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- uklr --&gt;
-
-&lt;h4&gt; 
-  &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
-    &amp;nbsp; uklr: R Client to United Kingdom Land Registry
-&lt;/h4&gt;
-
-&lt;div style = &#34;padding-left:15px;&#34;&gt;
-  &lt;p style = &#34;font-size:14px;&#34;&gt;
-    Access data from HM Land Registry Open Data through
-    SPARQL queries.  {uklr} supports the UK HPI, Transaction Data and
-    Price Paid Data.
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;column&#34;&gt;
-    &lt;p&gt;
-      &lt;a href=&#34;https://cran.r-project.org/package=uklr&#34; target=&#34;_blank&#34;&gt;
-      &lt;img src=&#34;http://www.r-pkg.org/badges/version/uklr&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;img src=&#34;https://www.r-pkg.org/badges/version/econdata&#34; alt=&#34;CRAN_Status_Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -412,7 +415,7 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0300</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
@@ -432,7 +435,7 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0300</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -442,7 +445,7 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;

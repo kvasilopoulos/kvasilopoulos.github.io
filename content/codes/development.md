@@ -39,7 +39,7 @@ weight = 30
   <div class="column">
     <p>
       <a href="https://cran.r-project.org/package=abvar" target="_blank">
-      <img src="http://www.r-pkg.org/badges/version/abvar" alt="CRAN_Status_Badge" /></a></p>
+      <img src="https://www.r-pkg.org/badges/version/abvar" alt="CRAN_Status_Badge" /></a></p>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ weight = 30
   <div class="column">
     <p>
       <a href="https://cran.r-project.org/package=matlaber" target="_blank">
-      <img src="http://www.r-pkg.org/badges/version/matlaber" alt="CRAN_Status_Badge" /></a></p>
+      <img src="https://www.r-pkg.org/badges/version/matlaber" alt="CRAN_Status_Badge" /></a></p>
   </div>
 </div>
 
@@ -88,7 +88,7 @@ weight = 30
   <div class="column">
     <p>
       <a href="https://cran.r-project.org/package=dynarer" target="_blank">
-      <img src="http://www.r-pkg.org/badges/version/dynarer" alt="CRAN_Status_Badge" /></a></p>
+      <img src="https://www.r-pkg.org/badges/version/dynarer" alt="CRAN_Status_Badge" /></a></p>
   </div>
 </div>
 
@@ -113,7 +113,7 @@ weight = 30
   <div class="column">
     <p>
       <a href="https://cran.r-project.org/package=transfer" target="_blank">
-      <img src="http://www.r-pkg.org/badges/version/transfer" alt="CRAN_Status_Badge" /></a></p>
+      <img src="https://www.r-pkg.org/badges/version/transfer" alt="CRAN_Status_Badge" /></a></p>
   </div>
 </div>
 
@@ -145,33 +145,11 @@ weight = 30
   <div class="column">
     <p>
       <a href="https://cran.r-project.org/package=econdata" target="_blank">
-      <img src="http://www.r-pkg.org/badges/version/econdata" alt="CRAN_Status_Badge" /></a></p>
+      <img src="https://www.r-pkg.org/badges/version/econdata" alt="CRAN_Status_Badge" /></a></p>
   </div>
 </div>
 
-<!-- uklr -->
 
-
-<h4> 
-  <i class="fas fa-cube"></i> 
-    &nbsp; uklr: R Client to United Kingdom Land Registry
-</h4>
-
-<div style = "padding-left:15px;">
-  <p style = "font-size:14px;">
-    Access data from HM Land Registry Open Data through
-    SPARQL queries.  {uklr} supports the UK HPI, Transaction Data and
-    Price Paid Data.
-  </p>
-</div>
-
-<div class="row">
-  <div class="column">
-    <p>
-      <a href="https://cran.r-project.org/package=uklr" target="_blank">
-      <img src="http://www.r-pkg.org/badges/version/uklr" alt="CRAN_Status_Badge" /></a></p>
-  </div>
-</div>
 
 
 
