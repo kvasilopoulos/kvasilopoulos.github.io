@@ -20,7 +20,7 @@
     <item>
       <title>Skills</title>
       <link>/bio/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
       <guid>/bio/skills/</guid>
       <description></description>
@@ -29,7 +29,7 @@
     <item>
       <title>Software Skills</title>
       <link>/codes/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
       <guid>/codes/skills/</guid>
       <description>&lt;!--
@@ -156,7 +156,7 @@ frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 
 &lt;h4&gt; 
   &lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; 
-  &lt;a  href = &#34;https://github.com/kvasilopoulos/ihpdr&#34; target=&#34;_blank&#34;&gt; &amp;nbsp; nationwider: Download House Price Data from Nationwide &lt;/a&gt; 
+  &lt;a  href = &#34;https://github.com/kvasilopoulos/nationwider&#34; target=&#34;_blank&#34;&gt; &amp;nbsp; nationwider: Download House Price Data from Nationwide &lt;/a&gt; 
 &lt;/h4&gt;
 
 &lt;div style = &#34;padding-left:15px;&#34;&gt;
@@ -415,7 +415,7 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0300</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
@@ -435,7 +435,7 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0300</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -445,7 +445,7 @@ July 04-08, 2016 Thessaloniki, Greece. &lt;a href=&#34;http://sce2016.uom.gr/&#3
     <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;

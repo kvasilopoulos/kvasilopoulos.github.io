@@ -125,7 +125,7 @@ weight = 20
 
 <h4> 
   <i class="fas fa-cube"></i> 
-  <a  href = "https://github.com/kvasilopoulos/ihpdr" target="_blank"> &nbsp; nationwider: Download House Price Data from Nationwide </a> 
+  <a  href = "https://github.com/kvasilopoulos/nationwider" target="_blank"> &nbsp; nationwider: Download House Price Data from Nationwide </a> 
 </h4>
 
 <div style = "padding-left:15px;">

@@ -6,7 +6,7 @@
     <description>Recent content in Academic on Kostas Vasilopoulos</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018-2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>Create a beautifully simple website or blog in under 10 minutes.</description>

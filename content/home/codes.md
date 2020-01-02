@@ -50,7 +50,7 @@ weight = 60
 
 <h4>
   <i class="fas fa-cube"></i> 
-  <a href = "https://https://github.com/kvasilopoulos/uklr" target="_blank">
+  <a href = "https://kvasilopoulos.github.io/uklr" target="_blank">
     &nbsp; uklr: Client to United Kingdom Land Registry
   </a>
 </h4>
