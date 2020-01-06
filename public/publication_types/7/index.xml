@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>7 on Kostas Vasilopoulos</title>
+    <title>7 | Kostas Vasilopoulos</title>
     <link>/publication_types/7/</link>
-    <description>Recent content in 7 on Kostas Vasilopoulos</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2018-2019</copyright>
-    <lastBuildDate>Fri, 07 Jun 2019 00:47:09 +0100</lastBuildDate>
-    
-	<atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2019 00:47:09 +0100</lastBuildDate>
+    <image>
+      <url>/img/kostas2.jpeg</url>
+      <title>7</title>
+      <link>/publication_types/7/</link>
+    </image>
     
     <item>
       <title>Commercial Real Estate, Housing and the Business Cycle</title>
       <link>/publication/cre/index/</link>
       <pubDate>Fri, 07 Jun 2019 00:47:09 +0100</pubDate>
-      
       <guid>/publication/cre/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks</title>
-      <link>/publication/ahpremia/index/</link>
-      <pubDate>Fri, 07 Jun 2019 00:47:09 +0100</pubDate>
-      
-      <guid>/publication/ahpremia/index/</guid>
       <description></description>
     </item>
     

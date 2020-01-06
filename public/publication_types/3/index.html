@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="Kostas Vasilopoulos">
 
   
   
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence">
+  <meta name="description" content="PhD Candidate">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication_types/3/">
@@ -69,8 +69,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -206,16 +204,52 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129604855-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-129604855-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/publication_types/3/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/publication_types/3/index.xml" type="application/rss+xml" title="Kostas Vasilopoulos">
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huae190e24b19c17e6188ac5b2cd371c5f_398_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huae190e24b19c17e6188ac5b2cd371c5f_398_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/publication_types/3/">
 
@@ -225,35 +259,34 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="og:site_name" content="Kostas Vasilopoulos">
   <meta property="og:url" content="/publication_types/3/">
-  <meta property="og:title" content="3 | Academic">
-  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="3 | Kostas Vasilopoulos">
+  <meta property="og:description" content="PhD Candidate"><meta property="og:image" content="/img/kostas2.jpeg">
+  <meta property="twitter:image" content="/img/kostas2.jpeg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-04-07T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2019-06-07T00:47:09&#43;01:00">
   
-
-  
-
-
-
-
-  
-
 
   
 
 
 
 
+  
 
-  <title>3 | Academic</title>
+
+  
+
+
+
+
+
+  <title>3 | Kostas Vasilopoulos</title>
 
 </head>
 
@@ -299,7 +332,7 @@
     
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Kostas Vasilopoulos</a>
     </div>
     
 
@@ -312,7 +345,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Kostas Vasilopoulos</a>
     </div>
     
 
@@ -347,7 +380,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#hero"><span>Home</span></a>
+          <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
         
@@ -369,7 +402,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publications/"><span>Publications</span></a>
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
         </li>
 
         
@@ -424,8 +457,6 @@
         
         
         
-          
-        
 
         
         
@@ -435,7 +466,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/posts/"><span>Posts</span></a>
+          <a class="nav-link " href="/cv/"><span>CV</span></a>
         </li>
 
         
@@ -533,10 +564,10 @@
   
   
   <div>
-    <h2><a href="/publication/preprint/">An example preprint / working paper</a></h2>
+    <h2><a href="/publication/real-estate-mp/index/">Real Estate and Monetary Policy: Residential and Commercial</a></h2>
     <div class="article-style">
       
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+      Residential and commercial real estate account for a substantial share of both household wealth and capital stock in the EU countries and the US. More specifically in the US, one-third of household net worth is held in residential real estate, whilst …
       
     </div>
   </div>
@@ -569,8 +600,6 @@
     
 
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     

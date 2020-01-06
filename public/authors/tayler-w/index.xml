@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tayler W. | Kostas Vasilopoulos</title>
+    <link>/authors/tayler-w./</link>
+      <atom:link href="/authors/tayler-w./index.xml" rel="self" type="application/rss+xml" />
+    <description>Tayler W.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2019 00:47:09 +0100</lastBuildDate>
+    <image>
+      <url>/img/kostas2.jpeg</url>
+      <title>Tayler W.</title>
+      <link>/authors/tayler-w./</link>
+    </image>
+    
+    <item>
+      <title>Commercial Real Estate, Housing and the Business Cycle</title>
+      <link>/publication/cre/index/</link>
+      <pubDate>Fri, 07 Jun 2019 00:47:09 +0100</pubDate>
+      <guid>/publication/cre/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

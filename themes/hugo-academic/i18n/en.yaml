@@ -145,26 +145,28 @@
 - id: location
   translation: Location
 
+# Publication
+
 - id: pub_uncat
-  translation: Uncategorized
+  translation: Uncategorized/Working Paper
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Preprint/Working Paper
 
 - id: pub_journal
-  translation: Journal article
+  translation: Submitted
 
 - id: pub_preprint
-  translation: Preprint
+  translation: In Review
 
 - id: pub_report
-  translation: Report
+  translation: Revise and Resubmit
 
 - id: pub_book
-  translation: Book
+  translation: In Press
 
 - id: pub_book_section
-  translation: Book section
+  translation: Journal article
 
 - id: pub_thesis
   translation: Thesis

@@ -5,27 +5,27 @@
 
 [[main]]
   name = "Home"
-  url = "#hero"
+  url = "#about"
   weight = 10
 
 [[main]]
   name = "Publications"
-  url = "publications/"
+  url = "/publication/"
   weight = 20
 
 [[main]]
   name = "Codes"
-  url = "codes/"
+  url = "/codes/"
   weight = 30
   
 [[main]]
   name = "Events"
-  url = "events/"
+  url = "/events/"
   weight = 40
   
 [[main]]
-  name = "Posts"
-  url = "/posts/"
+  name = "CV"
+  url = "/cv/"
   weight = 50
   
 [[main]]

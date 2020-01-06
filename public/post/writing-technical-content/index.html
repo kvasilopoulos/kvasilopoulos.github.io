@@ -21,7 +21,7 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="Kostas Vasilopoulos">
 
   
   
@@ -75,8 +75,6 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -212,14 +210,50 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129604855-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-129604855-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huae190e24b19c17e6188ac5b2cd371c5f_398_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huae190e24b19c17e6188ac5b2cd371c5f_398_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/post/writing-technical-content/">
 
@@ -233,9 +267,9 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="og:site_name" content="Kostas Vasilopoulos">
   <meta property="og:url" content="/post/writing-technical-content/">
-  <meta property="og:title" content="Writing technical content in Academic | Academic">
+  <meta property="og:title" content="Writing technical content in Academic | Kostas Vasilopoulos">
   <meta property="og:description" content="Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.
 On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.
@@ -245,7 +279,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
     
       <meta property="article:published_time" content="2019-07-12T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-07-12T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-01-06T13:31:31&#43;00:00">
   
 
   
@@ -280,16 +314,16 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
   ],
   
   "datePublished": "2019-07-12T00:00:00Z",
-  "dateModified": "2019-07-12T00:00:00Z",
+  "dateModified": "2020-01-06T13:31:31Z",
   
   "author": {
     "@type": "Person",
-    "name": "Nelson Bighetti"
+    "name": "Kostas Vasilopoulos"
   },
   
   "publisher": {
     "@type": "Organization",
-    "name": "Academic",
+    "name": "Kostas Vasilopoulos",
     "logo": {
       "@type": "ImageObject",
       "url": "img//"
@@ -313,7 +347,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 
 
 
-  <title>Writing technical content in Academic | Academic</title>
+  <title>Writing technical content in Academic | Kostas Vasilopoulos</title>
 
 </head>
 
@@ -359,7 +393,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
     
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Kostas Vasilopoulos</a>
     </div>
     
 
@@ -372,7 +406,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Kostas Vasilopoulos</a>
     </div>
     
 
@@ -407,7 +441,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#hero"><span>Home</span></a>
+          <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
         
@@ -429,7 +463,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publications/"><span>Publications</span></a>
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
         </li>
 
         
@@ -484,8 +518,6 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
         
         
         
-          
-        
 
         
         
@@ -495,7 +527,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/posts/"><span>Posts</span></a>
+          <a class="nav-link " href="/cv/"><span>CV</span></a>
         </li>
 
         
@@ -602,8 +634,10 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
     
     
       
+          Last updated on
+      
     
-    Jul 12, 2019
+    Jan 6, 2020
   </span>
   
 
@@ -986,13 +1020,13 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu5a03471d74fada423390e85bed283d17_107319_250x250_fill_lanczos_center_2.png" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/">Nelson Bighetti</a></h5>
-      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
-      <p class="card-text">My research interests include distributed robotics, mobile computing and programmable matter.</p>
+      <h5 class="card-title"><a href="/">Kostas Vasilopoulos</a></h5>
+      <h6 class="card-subtitle">PhD Candidate</h6>
+      <p class="card-text">My research interests include theoretical and applied macroeconomics focused on the real estate markets.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1024,8 +1058,25 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
       
     
     <li>
-      <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
+      <a href="https://www.linkedin.com/in/kostas-vasilopoulos-130718128/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/kvasilopoulos" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
       </a>
     </li>
   
@@ -1039,7 +1090,7 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
       
     
     <li>
-      <a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+      <a href="https://scholar.google.com/citations?user=XVJjACsAAAAJ&amp;hl=en&amp;authuser=1" target="_blank" rel="noopener">
         <i class="ai ai-google-scholar"></i>
       </a>
     </li>
@@ -1047,8 +1098,6 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     
     
-      
-    
     
     
     
@@ -1056,8 +1105,8 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
       
     
     <li>
-      <a href="https://github.com/gcushen" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
+      <a href="/cv/cv.pdf" >
+        <i class="ai ai-cv"></i>
       </a>
     </li>
   
@@ -1107,8 +1156,6 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
 
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
