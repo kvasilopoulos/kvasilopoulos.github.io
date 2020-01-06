@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright>
     <image>
       <url>/img/kostas2.jpeg</url>
       <title>Recent &amp; Upcoming Talks</title>
