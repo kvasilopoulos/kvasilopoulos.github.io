@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on Kostas Vasilopoulos</title>
+    <title>Demo | Academic</title>
     <link>/tags/demo/</link>
-    <description>Recent content in Demo on Kostas Vasilopoulos</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2018-2019</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>International Housing Observatory</title>
-      <link>/project/international-housing-observatory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/project/international-housing-observatory/</guid>
-      <description>Understanding the  national house price dynamics.</description>
-    </item>
+      <atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+    </image>
     
     <item>
-      <title>UK Housing Observatory</title>
-      <link>/project/uk-housing-observatory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/project/uk-housing-observatory/</guid>
-      <description>Understanding the UK national and regional house price dynamics.</description>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
     </item>
     
   </channel>
