@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Kostas Vasilopoulos</title>
-    <link>https://kvasilopoulos.netlify.com/project/</link>
-      <atom:link href="https://kvasilopoulos.netlify.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kvasilopoulos.netlify.com/img/kostas2.jpeg</url>
+      <url>/img/kostas2.jpeg</url>
       <title>Projects</title>
-      <link>https://kvasilopoulos.netlify.com/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>UK Housing Observatory</title>
-      <link>https://kvasilopoulos.netlify.com/project/uk-housing-observatory/</link>
+      <link>/project/uk-housing-observatory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://kvasilopoulos.netlify.com/project/uk-housing-observatory/</guid>
+      <guid>/project/uk-housing-observatory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>International Housing Observatory</title>
-      <link>https://kvasilopoulos.netlify.com/project/international-housing-observatory/</link>
+      <link>/project/international-housing-observatory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      <guid>https://kvasilopoulos.netlify.com/project/international-housing-observatory/</guid>
+      <guid>/project/international-housing-observatory/</guid>
       <description></description>
     </item>
     

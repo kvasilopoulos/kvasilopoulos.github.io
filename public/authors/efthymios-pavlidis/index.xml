@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Efthymios Pavlidis | Kostas Vasilopoulos</title>
-    <link>https://kvasilopoulos.netlify.com/authors/efthymios-pavlidis/</link>
-      <atom:link href="https://kvasilopoulos.netlify.com/authors/efthymios-pavlidis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/efthymios-pavlidis/</link>
+      <atom:link href="/authors/efthymios-pavlidis/index.xml" rel="self" type="application/rss+xml" />
     <description>Efthymios Pavlidis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kvasilopoulos.netlify.com/img/kostas2.jpeg</url>
+      <url>/img/kostas2.jpeg</url>
       <title>Efthymios Pavlidis</title>
-      <link>https://kvasilopoulos.netlify.com/authors/efthymios-pavlidis/</link>
+      <link>/authors/efthymios-pavlidis/</link>
     </image>
     
     <item>
       <title>Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks</title>
-      <link>https://kvasilopoulos.netlify.com/publication/ahpremia/index/</link>
+      <link>/publication/ahpremia/index/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvasilopoulos.netlify.com/publication/ahpremia/index/</guid>
+      <guid>/publication/ahpremia/index/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

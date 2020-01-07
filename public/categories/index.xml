@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Kostas Vasilopoulos</title>
-    <link>https://kvasilopoulos.netlify.com/categories/</link>
-      <atom:link href="https://kvasilopoulos.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kvasilopoulos.netlify.com/img/kostas2.jpeg</url>
+      <url>/img/kostas2.jpeg</url>
       <title>Categories</title>
-      <link>https://kvasilopoulos.netlify.com/categories/</link>
+      <link>/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>https://kvasilopoulos.netlify.com/categories/demo/</link>
+      <link>/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://kvasilopoulos.netlify.com/categories/demo/</guid>
+      <guid>/categories/demo/</guid>
       <description></description>
     </item>
     

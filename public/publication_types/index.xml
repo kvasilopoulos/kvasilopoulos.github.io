@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Kostas Vasilopoulos</title>
-    <link>https://kvasilopoulos.netlify.com/publication_types/</link>
-      <atom:link href="https://kvasilopoulos.netlify.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kvasilopoulos.netlify.com/img/kostas2.jpeg</url>
+      <url>/img/kostas2.jpeg</url>
       <title>Publication_types</title>
-      <link>https://kvasilopoulos.netlify.com/publication_types/</link>
+      <link>/publication_types/</link>
     </image>
     
     <item>
       <title>4</title>
-      <link>https://kvasilopoulos.netlify.com/publication_types/4/</link>
+      <link>/publication_types/4/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvasilopoulos.netlify.com/publication_types/4/</guid>
+      <guid>/publication_types/4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>0</title>
-      <link>https://kvasilopoulos.netlify.com/publication_types/0/</link>
+      <link>/publication_types/0/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvasilopoulos.netlify.com/publication_types/0/</guid>
+      <guid>/publication_types/0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1</title>
-      <link>https://kvasilopoulos.netlify.com/publication_types/1/</link>
+      <link>/publication_types/1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvasilopoulos.netlify.com/publication_types/1/</guid>
+      <guid>/publication_types/1/</guid>
       <description></description>
     </item>
     
