@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vasilopoulos K. | Kostas Vasilopoulos</title>
+    <link>/authors/vasilopoulos-k./</link>
+      <atom:link href="/authors/vasilopoulos-k./index.xml" rel="self" type="application/rss+xml" />
+    <description>Vasilopoulos K.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2019 00:47:09 +0100</lastBuildDate>
+    <image>
+      <url>/img/kostas2.jpeg</url>
+      <title>Vasilopoulos K.</title>
+      <link>/authors/vasilopoulos-k./</link>
+    </image>
+    
+    <item>
+      <title>Real Estate and Monetary Policy: Residential and Commercial</title>
+      <link>/publication/real-estate-mp/index/</link>
+      <pubDate>Fri, 07 Jun 2019 00:47:09 +0100</pubDate>
+      <guid>/publication/real-estate-mp/index/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;Real Estate and Monetary Policy: Residential and Commercial&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin
+date: &amp;ldquo;2019-01-01T00:00:00Z&amp;rdquo;
+doi: &amp;quot;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&#39;s date).&lt;/h1&gt;
+&lt;p&gt;publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
+&lt;h1 id=&#34;0--uncategorized&#34;&gt;0 = Uncategorized;&lt;/h1&gt;
+&lt;h1 id=&#34;1--preprint--working-paper&#34;&gt;1 = Preprint / Working Paper&lt;/h1&gt;
+&lt;h1 id=&#34;2--submitted&#34;&gt;2 = Submitted&lt;/h1&gt;
+&lt;h1 id=&#34;3--in-revision&#34;&gt;3 = In Revision&lt;/h1&gt;
+&lt;h1 id=&#34;4--revise-and-resubmit&#34;&gt;4 = Revise and Resubmit&lt;/h1&gt;
+&lt;h1 id=&#34;5--in-press&#34;&gt;5 = In Press&lt;/h1&gt;
+&lt;h1 id=&#34;6--journal-article&#34;&gt;6 = Journal Article&lt;/h1&gt;
+&lt;h1 id=&#34;7--thesis&#34;&gt;7 = Thesis&lt;/h1&gt;
+&lt;h1 id=&#34;8--patent&#34;&gt;8 = Patent&lt;/h1&gt;
+&lt;p&gt;publication_types: [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
+&lt;h1 id=&#34;publication-name-and-optional-abbreviated-publication-name&#34;&gt;Publication name and optional abbreviated publication name.&lt;/h1&gt;
+&lt;p&gt;publication: &amp;quot;&amp;rdquo;
+publication_short: &amp;quot;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;abstract:Residential and commercial real estate account for a substantial share of both household wealth and capital stock in the EU countries and the US. More specifically in the US, one-third of household net worth is held in residential real estate, whilst commercial real estate typically accounts for about half the net market (replacement) value of nonfarm, nonfinancial corporate business assets (Case2000). Furthermore, fluctuations in real estate values have been shown to play a significant and unique role both the amplification and the propagation of the business cycle, especially when combined with financial frictions in the form of collateral constraints. The general mechanism is that when households or firms use real estate as a collateral for borrowing, a decline in real estate prices will reduce the value of available collateral, and with it the availability of funds for either investment or consumption, thus amplifying the decline in economic activity (Iacoviello2005, Iacoviello2010, Liu2013, Guerrieri2017). The 2007-08 financial crisis exposed the magnitude through which distortions in residential and commercial real estate markets can spillover to the goods markets and the real economy. Real estate has long been considered as hedge against inflation (Fama1977), hence the real estate market serves as a medium for the transmission of monetary policy shocks to the overall economy. There are several channels that are at play, among which two are going to be explored here. First, the role of monetary policy in affecting the behaviour of real estate investment and property prices, as opposed to other, possibly non-fundamental factors that drive house prices up and down, such as bubbles. Second, the role of borrowing in affecting and possibly amplifying the effect of changes in property prices (in turn due to both monetary and non-monetary factors) on investment, value of collateral and overall economic activity through a financial accelerator mechanism. In our analysis, we consider both commercial and residential, therefore, it is important to disaggregate investment activity. It is households that demand housing services and consumption-good firms that are using commercial real estate to facilitate their business activities. These two combined constitute the demand for real estate. Both agents are credit-constrained and are allowed to borrow only against collateral, however, they differ in the way that they secure their financing. Firms borrow at bank prime loan rate, while households request mortgage loans at the mortgage lending rate. Both residential and commercial real estate are supplied by the construction sector. Specifically, construction firms still borrow at the same rate as consumption-good firms, however since they do not own the  real estate, they cannot pledge it as collateral. The objective of this study is to develop a framework to study the transmission of monetary policy to the real estate markets. We will carry out a structural analysis using a Structural Vector Autoregression approach (SVAR), which is conditional on the identification of a restricted number of structural shocks. Similar SVAR will be constructed for both commercial and residential real estate in order to obtain comparable results for the two markets. We first estimate the market separately, when we will focus on monetary policy, real estate demand and credit supply (borrowing) of the separate markets and compare the two impulse responses in the two markets to understand similarities and differences in a systematic manner. The second part of the research will  model the construction sector, where both types of real estate are estimated jointly. A unified approach would help us further understand the potential spillovers and comovements between the two real estate sectors.&lt;/p&gt;
+&lt;h1 id=&#34;summary-an-optional-shortened-abstract&#34;&gt;Summary. An optional shortened abstract.&lt;/h1&gt;
+&lt;p&gt;summary:&lt;/p&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Source Themes
+featured: false&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
+&lt;h1 id=&#34;--name-&#34;&gt;- name: &amp;quot;&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;url-&#34;&gt;url: &amp;quot;&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;url_pdf: &#39;&amp;rsquo;
+url_code: &#39;&amp;rsquo;
+url_dataset: &#39;&amp;rsquo;
+url_poster: &#39;&amp;rsquo;
+url_project: &#39;&amp;rsquo;
+url_slides: &#39;&amp;rsquo;
+url_source: &#39;&amp;rsquo;
+url_video: &#39;&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&#39;s folder.&lt;/h1&gt;
+&lt;p&gt;image:
+caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/jdD8gXaTZsc&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
+focal_point: &amp;quot;&amp;rdquo;
+preview_only: false&lt;/p&gt;
+&lt;h1 id=&#34;associated-projects-optional&#34;&gt;Associated Projects (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&#39;s folder or file name without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-internal-project-references-contentprojectinternal-projectindexmd&#34;&gt;E.g. &lt;code&gt;internal-project&lt;/code&gt; references &lt;code&gt;content/project/internal-project/index.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-projects-&#34;&gt;Otherwise, set &lt;code&gt;projects: []&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;projects: []&lt;/p&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&#39;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;h2 id=&#34;slides&#34;&gt;slides:&lt;/h2&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --!&gt;
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

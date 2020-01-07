@@ -1,0 +1,18 @@
+{
+  "name": "Kostas Vasilopoulos",
+  "short_name": "Kostas Vasilopoulos",
+  "lang": "en-us",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/images/icon_huae190e24b19c17e6188ac5b2cd371c5f_398_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_huae190e24b19c17e6188ac5b2cd371c5f_398_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

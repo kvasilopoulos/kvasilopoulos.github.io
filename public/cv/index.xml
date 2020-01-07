@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio on Kostas Vasilopoulos</title>
+    <link>/cv/</link>
+    <description>Recent content in Bio on Kostas Vasilopoulos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018-2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/cv/published/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/published/</guid>
+      <description>Download</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/cv/</guid>
+      <description>Research InterestsMacroeconomics, Real Estate Markets, Time Series Modeling, Credit Frictions, Dynamic Stochastic General Equilibrium (DSGE) modellingEducationLancaster University, Ph.D. Economics Oct 2016- Present
+University of Macedonia, Greece, Ms.C. Economics Sept 2014- March 2016
+University of Macedonia, Greece, Bs.C. Economics Sept 2009- Aug 2014
+Working PapersVasilopoulos K., Tayler W. (2019). Commercial Real Estate, Housing and the Business Cycle.</description>
+    </item>
+    
+  </channel>
+</rss>

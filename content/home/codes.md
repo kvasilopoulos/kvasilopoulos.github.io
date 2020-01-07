@@ -12,6 +12,7 @@ subtitle = "Selected R packages"
 
 # Order that this section will appear in.
 weight = 60
+
 +++
 
  
@@ -58,12 +59,16 @@ weight = 60
 
 <!-- Rest -->
 
+<!-- 
 <p style = "font-size:18px; margin-left:-2em; font-weight: bold; margin-top: 2rem;"> 
   For a comprehensive list you can see 
   <a href="./codes/"> here. </a>
 </p>
+-->
 
-
-<!-- > Simulate a variety of periodically-collapsing bubble models. The estimation
-> and simulation utilize the matrix inversion lemma from the recursive least squares
-> algorithm, which results in a significant speed improvement. -->
+<p style="text-align:right;width: 80%;padding-top:42px;">
+  <a href="./codes/">  
+    <i class="fas fa-angle-double-right"></i>
+    Comprehensive List
+  </a>
+</p>

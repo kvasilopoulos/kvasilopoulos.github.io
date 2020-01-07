@@ -1,17 +1,16 @@
 +++
 # Experience widget.
-widget = "experience"  # Do not modify this line!
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 8
-
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -25,7 +24,12 @@ date_format = "January 2006"
   location = "Lancaster, United Kingdom"
   date_start = "2019-03-01"
   date_end = ""
-  description = """ """
+  description = """
+  Responsibilities include:
+  
+  * Analysing and modelling UK national and regional housing markets
+  * Developing dynamic and interactive website
+  """
   
 [[experience]]
   title = "Postgraduate Teaching Assistant"
@@ -41,6 +45,5 @@ date_format = "January 2006"
   * [Econ 102: Principles of Economics B](http://www.lusi.lancaster.ac.uk/CoursesHandbook/ModuleDetails/ModuleDetail?yearId=000114&courseId=018424)
 
 """
-
-
 +++
+
