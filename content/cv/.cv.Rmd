@@ -2,7 +2,7 @@
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ./template/svm-latex-cv.tex
+    template: ./.svm-template/svm-latex-cv.tex
 geometry: margin=1in
 
 title: "CV"
