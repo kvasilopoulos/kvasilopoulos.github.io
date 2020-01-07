@@ -148,10 +148,10 @@
 # Publication
 
 - id: pub_uncat
-  translation: Uncategorized/Working Paper
+  translation: Work in Progress
 
 - id: pub_conf
-  translation: Preprint/Working Paper
+  translation: Working Paper
 
 - id: pub_journal
   translation: Submitted

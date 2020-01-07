@@ -5,7 +5,7 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2019 00:47:09 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/kostas2.jpeg</url>
       <title>1</title>
@@ -15,9 +15,26 @@
     <item>
       <title>Commercial Real Estate, Housing and the Business Cycle</title>
       <link>/publication/cre/index/</link>
-      <pubDate>Fri, 07 Jun 2019 00:47:09 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/cre/index/</guid>
-      <description></description>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --!&gt;
+
+
+</description>
     </item>
     
   </channel>

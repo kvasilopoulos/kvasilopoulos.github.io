@@ -27,9 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analysing and modelling UK national and regional housing markets
+  * Developing dynamic and interactive website
   """
   
 [[experience]]
@@ -47,3 +46,4 @@ date_format = "Jan 2006"
 
 """
 +++
+

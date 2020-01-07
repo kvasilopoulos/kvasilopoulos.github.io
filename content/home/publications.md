@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Working Papers"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -69,7 +69,7 @@ subtitle = ""
 <p style="position: absolute;text-align:right;width: 80%;bottom: -50px;">
   <a href="./publication/">  
     <i class="fas fa-angle-double-right"></i>
-    Discover all publications 
+    Discover all Research 
   </a>
 </p>
 
