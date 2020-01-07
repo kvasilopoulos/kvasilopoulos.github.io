@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Kostas Vasilopoulos</title>
-    <link>/courses/</link>
-      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kvasilopoulos.netlify.com/courses/</link>
+      <atom:link href="https://kvasilopoulos.netlify.com/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright>
     <image>
-      <url>/img/kostas2.jpeg</url>
+      <url>https://kvasilopoulos.netlify.com/img/kostas2.jpeg</url>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>https://kvasilopoulos.netlify.com/courses/</link>
     </image>
     
   </channel>
