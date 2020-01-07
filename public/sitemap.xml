@@ -103,6 +103,11 @@
   </url>
   
   <url>
+    <loc>/cv/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/cre/index/</loc>
     <lastmod>2020-01-07T15:00:45+00:00</lastmod>
   </url>
@@ -173,13 +178,13 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-06T19:06:11+00:00</lastmod>
+    <loc>/talk/</loc>
+    <lastmod>2020-01-06T13:31:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-01-06T13:31:31+00:00</lastmod>
+    <loc>/publication/</loc>
+    <lastmod>2020-01-06T19:06:11+00:00</lastmod>
   </url>
   
 </urlset>
