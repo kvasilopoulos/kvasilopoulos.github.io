@@ -5,3 +5,11 @@
 [context.production.environment]
   HUGO_VERSION = "0.62.2"
   HUGO_ENABLEGITINFO = "true"
+  
+[[redirects]]
+  from = "https://kvasilopoulos.netlify.com/"
+  to = "https://kvasilopoulos.com/"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}

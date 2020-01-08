@@ -11,3 +11,4 @@ external_link: http://www.lancaster.ac.uk/lums/our-departments/economics/researc
 image:
   focal_point: Smart
 ---
+
