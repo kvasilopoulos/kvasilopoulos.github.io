@@ -7,8 +7,8 @@
   HUGO_ENABLEGITINFO = "true"
   
 [[redirects]]
-  from = "https://kvasilopoulos.netlify.com/"
-  to = "https://kvasilopoulos.com/"
+  from = "https://kvasilopoulos.netlify.com"
+  to = "https://kvasilopoulos.com"
   status = 301
   force = false
   query = {path = ":path"}
