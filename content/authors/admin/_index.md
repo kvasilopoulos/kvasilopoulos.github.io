@@ -56,7 +56,7 @@ social:
   link: https://github.com/kvasilopoulos
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=XVJjACsAAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?user=jIskI9oAAAAJ&hl=en&authuser=1
 - icon: cv
   icon_pack: ai
   link: ./cv/cv.pdf
