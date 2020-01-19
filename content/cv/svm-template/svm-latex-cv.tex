@@ -4,11 +4,11 @@ $if(fontfamily)$
 $else$
     \usepackage{lmodern}
 $endif$
-  $if(linestretch)$
+$if(linestretch)$
   \usepackage{setspace}
-\setstretch{$linestretch$}
+  \setstretch{$linestretch$}
 $endif$
-  \usepackage{amssymb,amsmath}
+\usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
@@ -30,18 +30,18 @@ $endif$
   $if(mainfont)$
   \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
 $endif$
-  $if(sansfont)$
+$if(sansfont)$
   \setsansfont[$for(sansfontoptions)$$sansfontoptions$$sep$,$endfor$]{$sansfont$}
 $endif$
-  $if(monofont)$
+$if(monofont)$
   \setmonofont[Mapping=tex-ansi$if(monofontoptions)$,$for(monofontoptions)$$monofontoptions$$sep$,$endfor$$endif$]{$monofont$}
 $endif$
-  $if(mathfont)$
+$if(mathfont)$
   \setmathfont(Digits,Latin,Greek)[$for(mathfontoptions)$$mathfontoptions$$sep$,$endfor$]{$mathfont$}
 $endif$
-  $if(CJKmainfont)$
+$if(CJKmainfont)$
   \usepackage{xeCJK}
-\setCJKmainfont[$for(CJKoptions)$$CJKoptions$$sep$,$endfor$]{$CJKmainfont$}
+  \setCJKmainfont[$for(CJKoptions)$$CJKoptions$$sep$,$endfor$]{$CJKmainfont$}
 $endif$
   \fi
 % use upquote if available, for straight quotes in verbatim environments
@@ -56,25 +56,25 @@ $if(geometry)$
 $endif$
   
   
-  $if(lang)$
+$if(lang)$
   \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[shorthands=off,$for(babel-otherlangs)$$babel-otherlangs$,$endfor$main=$babel-lang$]{babel}
   $if(babel-newcommands)$
     $babel-newcommands$
-    $endif$
-    \else
+  $endif$
+  \else
       \usepackage{polyglossia}
-  \setmainlanguage[$polyglossia-lang.options$]{$polyglossia-lang.name$}
+    \setmainlanguage[$polyglossia-lang.options$]{$polyglossia-lang.name$}
   $for(polyglossia-otherlangs)$
     \setotherlanguage[$polyglossia-otherlangs.options$]{$polyglossia-otherlangs.name$}
   $endfor$
     \fi
   $endif$
-    $if(natbib)$
+  $if(natbib)$
     \usepackage{natbib}
-  \bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
+    \bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
   $endif$
-    $if(biblatex)$
+  $if(biblatex)$
     \usepackage$if(biblio-style)$[style=$biblio-style$]$endif${biblatex}
   $if(biblatexoptions)$\ExecuteBibliographyOptions{$for(biblatexoptions)$$biblatexoptions$$sep$,$endfor$}$endif$
     $for(bibliography)$
@@ -102,6 +102,9 @@ $endif$
   \makeatletter
   \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
   \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+  
+  % \def\Vhrulefill{\leavevmode\leaders\hrule height 0.7ex depth \dimexpr0.4pt-0.7ex\hfill\kern0pt}
+
   \makeatother
   % Scale images if necessary, so that they will not overflow the page
   % margins by default, and it is still possible to overwrite the defaults
@@ -170,27 +173,25 @@ $endif$
               \usepackage{sectsty}
               \sectionfont{\rmfamily\mdseries\large\bf}
               \subsectionfont{\rmfamily\mdseries\normalsize\itshape}
-              
+
               % new rule on hrule applied in Rmd file
               \let\oldrule=\rule
               \renewcommand{\rule}[1]{\oldrule{\linewidth}}
               
               
               % Make lists without bullets
-              \renewenvironment{itemize}{
-                \begin{list}{}{
-                  \setlength{\leftmargin}{1.5em}
-                }
-              }{
-                \end{list}
-              }
+              % \renewenvironment{itemize}{
+              %   \begin{list}{}{
+              %     \setlength{\leftmargin}{1.5em}
+              %   }
+              % }{
+              %   \end{list}
+              % }
               
               
               % Make parskips rather than indent with lists.
               \usepackage{parskip}
-              \usepackage{titlesec}
-              \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
-              \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+              
               
               % Use fontawesome. Note: you'll need TeXLive 2015. Update.
               $if(fontawesome)$\usepackage{fontawesome}$endif$
@@ -229,11 +230,19 @@ $endif$
               urlcolor=$if(urlcolor)$$urlcolor$$else$Blue$endif$,
               breaklinks=true, bookmarks=true}
               \urlstyle{same}  % don't use monospace font for urls
+
+              \usepackage{titlesec}
+              \titlespacing\section{-4pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+              \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+              \titleformat{\section}{\normalfont\large\bfseries}{}{0pt}{}[{\titlerule[0.4pt]}]
+
+              
+              \usepackage{xcolor}
               
               \begin{document}
               
               
-              \centerline{\huge \bf $author$}
+              \centerline{\huge \scshape $author$} %\bf
               
               \vspace{2 mm}
               
@@ -241,28 +250,38 @@ $endif$
               
               \vspace{2 mm}
               
-              \hrule
+              
+              \centerline{\normalsize \textcolor{darkgray}{$address$}}
+              
+              \begin{center}
+                \small
+                \faGlobe \hspace{1mm} \href{http://$web$}{\tt $web$} \hspace{1mm} | 
+                \hspace{1mm}  \faEnvelope \hspace{1mm} \href{mailto:}{\tt $email$} \hspace{1mm} | \hspace{1mm} \faGithub \hspace{1mm} \href{http://github.com/$github$}{\tt $github$} |
+                \faLinkedin \hspace{1mm} \href{https://www.linkedin.com/in/kostas-vasilopoulos-130718128/}{\tt kvasilopoulos}
+                \\ \vspace{2mm}
+                \faEnvelopeO \hspace{1mm} \href{mailto:}{\tt $email2$} \hspace{1mm} | \hspace{1mm} \faPhone $phone$
+              \end{center}
               
               \vspace{2 mm}
               
               % $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
-              $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
+              % $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
+              % 
+              %   \moveleft.5\hoffset\centerline{ 
+              % $if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hfill$endif$ 
+              % $if(email2)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email2$} \hspace{1 mm}$endif$ }
+              %   \moveleft.5\hoffset\centerline{ 
+              %  $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$} \hfill $endif$ 
+              %  $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$}
+              %  \moveleft.5\hoffset\centerline{
+              % $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hfill $endif$
+              % $if(updated)$  \emph{Updated:} \today  $else$   $endif$
+              % }
               
-                \moveleft.5\hoffset\centerline{ 
-              $if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hfill$endif$ 
-              $if(email2)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email2$} \hspace{1 mm}$endif$ }
-                \moveleft.5\hoffset\centerline{ 
-               $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$} \hfill $endif$ 
-               $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$}
-               \moveleft.5\hoffset\centerline{
-              $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hfill $endif$
-              $if(updated)$  \emph{Updated:} \today  $else$   $endif$
-              }
               
+              % \vspace{2 mm}
               
-              \vspace{2 mm}
-              
-              \hrule
+              % \hrule
               
               
               $body$
