@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Working Paper"
 publication_short: ""
 
 abstract: The 2007-08 financial crisis exposed the magnitude through which distortions in residential and commercial real estate markets can spillover to the goods markets and the real economy. This paper develops an RBC model with a consumption good and a construction sector, where both commercial and residential real estate forms the construction sector. We investigate the property-price and investment dynamics when there is competition between households and firms for real estate and the implications this market structure has for macroeconomic fluctuations. In doing so we develop a 'real estate substitution channel', where demand shocks, by raising the costs of production create a substitution between the two types of real estate. This gives an alternative interpretation to the housing preference shock, which rather than simply representing a shift in preferences, is also explained as a supply shock to the commercial real estate. The estimated model reveals that housing preference shocks explain the largest part of the variation in property prices and residential investment, while commercial real estate prices are is driven primarily by  technology shock.
@@ -32,7 +32,7 @@ summary:
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
