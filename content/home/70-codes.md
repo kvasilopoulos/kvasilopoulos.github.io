@@ -32,8 +32,8 @@ weight = 70
 
 <h4 style="padding-bottom:1em;">
   <i class="fas fa-cube"></i>
-  <a href = "https://kvasilopoulos.github.io/exuber/" target="_blank">
-    &nbsp; exuber : Econometric Analysis of Explosive Time Series 
+  <a href = "https://kvasilopoulos.github.io/exuber" rel="noopener noreferrer" target="_blank">
+     exuber : Econometric Analysis of Explosive Time Series 
   </a>
 </h4>
 
