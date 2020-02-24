@@ -51,9 +51,9 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
 
 # Research
 
-* Pavlidis E., **Vasilopoulos K.** (2019). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks. R&R Journal of International Finance.
+* Pavlidis E., Vasilopoulos K. (2019). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks. **R&R Journal of International Finance**.
 
-* **Vasilopoulos K.**, Tayler W. (2019). Commercial Real Estate, Housing and the Business Cycle.
+* Vasilopoulos K., Tayler W. (2019). Commercial Real Estate, Housing and the Business Cycle. **Working Paper**
 
 <!--- Projects --->
 
@@ -152,4 +152,4 @@ URL: [https://sites.google.com/site/williamjtayler/](https://sites.google.com/si
 Professor in Economics \newline <br>
 Lancaster University \newline <br>
 E-mail: [i.paya@lancaster.ac.uk](i.paya@lancaster.ac.uk) \newline <br>
-URL: [https://ivanpaya.weebly.com/](https://ivanpaya.weebly.com/]) 
+URL: [https://ivanpaya.weebly.com/](https://ivanpaya.weebly.com/) 
