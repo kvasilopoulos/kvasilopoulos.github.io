@@ -1,0 +1,45 @@
+{{ $item := . }}
+
+<div style = "padding-left:15px;">
+
+<h4>
+  <i class="fas fa-cube"></i>
+  <a href="https://kvasilopoulos.github.io/{{ $item.name }}/" target="_blank">
+    &nbsp; {{ $item.name }}: {{ $item.title}}
+  </a>
+</h4>
+
+  <p style="font-size:16px;">
+    {{with .description}} {{ . | markdownify | emojify}} {{end}}
+  </p>
+
+  <div class="row">
+
+    <div class="column">
+      <p>
+        <a href="https://cran.r-project.org/package={{ $item.name }}" target="_blank">
+          <img src="https://www.r-pkg.org/badges/version/{{ $item.name }}" alt="CRAN_Status_Badge" />
+        </a>
+      </p>
+    </div>
+    
+    <div class="column" style="padding-left: 10px;">
+      <p>
+        <img src="https://cranlogs.r-pkg.org/badges/grand-total/{{ $item.name }}" alt="CRAN_Status_Badge" />
+      </p>
+    </div>
+    
+    <div class="column">
+      <p style="padding-left: 300px;">
+        <a class="github-button" href="https://github.com/kvasilopoulos/{{ .name }}"
+          data-size = "large" aria-label="Github kvasilopoulos/{{ .name }}"
+          data-color-scheme="no-preference: light; light: light; dark: dark;"
+          >  @kvasilopoulos/{{ .name }}</a>
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
