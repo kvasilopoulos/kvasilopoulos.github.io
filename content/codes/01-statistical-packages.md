@@ -15,7 +15,7 @@ weight = 20
 
 [[pkg]]
   name = "exuber"
-  title =  "Testing and Simulating explosive periods"
+  title =  "Econometric Analysis of Explosive Time Series"
   description = """
   Testing for and dating periods of explosive dynamics (exuberance) in time series using the univariate and panel recursive unit root tests proposed by <a href = "https://doi.org/10.1111/iere.12132" target= "_blank"> Phillips et al. (2015) </a>and  <a href = " https://doi.org/10.1007/s11146-015-9531-2" target="_blank"> Pavlidis et al. (2016)</a>. The recursive least-squares algorithm utilizes the matrix inversion lemma to avoid matrix inversion which results in significant speed improvements. Simulation of a variety of periodically-collapsing bubble processes.
   """
