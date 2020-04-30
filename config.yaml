@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://blog.kvasilopoulos.com
 theme: pure
 title: Pure theme for Hugo
 defaultContentLanguage: en  # en/zh/...
