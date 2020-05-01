@@ -117,9 +117,9 @@ params:
       enabled: true
       width: 40
       height: 40
-      url: logo.png # favicon.ico
+      url: favicon.ico # favicon.ico
     title: Hugo # 页面title
-    favicon: logo.png # favicon.ico
+    favicon: favicon.ico # favicon.ico
     board: <p>enjoy~</p> # 公告牌
 
   # Share
