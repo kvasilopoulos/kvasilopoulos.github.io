@@ -1,0 +1,25 @@
+pre {
+  position: static;
+  padding: 15px 10px 0px 10px;
+}
+
+code {
+  background: #f5f5f0;
+}
+
+.hljs {
+  display:inline !important;
+}
+
+header {
+  background-color: #f5f5f0 !important;
+  border-right: 1px solid #f6f6f6 !important;
+}
+
+sidebar {
+  background-color: #f5f5f0 !important;
+}
+
+.theme-blue header {
+  background: #2962ff;
+}

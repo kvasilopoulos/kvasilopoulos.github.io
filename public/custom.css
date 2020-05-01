@@ -1,0 +1,11 @@
+pre {
+  position: static;
+}
+
+.hljs {
+  display:inline;
+}
+
+h2 {
+  color:red;
+}

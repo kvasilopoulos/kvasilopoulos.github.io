@@ -1,0 +1,29 @@
+---
+title: This is a peculiar title
+author: KostasVasilopoulos
+description: It seems it needs a description
+draft: true
+date: '2020-04-30'
+slug: new-rmd
+categories: []
+tags: []
+---
+
+# H1
+
+## H2
+
+
+```{r}
+plot(mtcars$mpg)
+```
+
+
+```r
+plot(mtcars$mpg)
+```
+
+
+```python
+plot(mtcars$mpg)
+```

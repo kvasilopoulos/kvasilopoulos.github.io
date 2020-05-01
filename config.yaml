@@ -1,6 +1,6 @@
 baseURL: https://blog.kvasilopoulos.com
 theme: pure
-title: Pure theme for Hugo
+title: Blog | Kostas Vasilopoulos 
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
@@ -58,28 +58,28 @@ menu:
       url: /tags/
       weight: 4
 
-    - identifier: about
-      name: About
-      title: About
-      url: /about/
-      weight: 5
+   # - identifier: about
+    #  name: About
+    #  title: About
+     # url: /about/
+      #weight: 5
 
 
 params:
   since: 2017
   dateFormatToUse: "2006-01-02"
-  enablePostCopyright: true
+  enablePostCopyright: false
   # the directory under content folder that you want to render
   mainSections: ["posts"]
   # Enable/Disable menu icons
   # Icon Reference: http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html
   enableMathJax: true #Enable mathjax support, to use mathematical notations
   highlightjs:
-    langs: ["python", "javascript"] # refer to http://staticfile.org/, search highlight.js, already have highlight.min.js
+    langs: ["R","python", "javascript"] # refer to http://staticfile.org/, search highlight.js, already have highlight.min.js
 
   # Allows you to specify an override stylesheet
   # put custom.css in $hugo_root_dir/static/
-  # customCSS: css/custom.css
+  customCSS: css/custom.css
 
   menuIcons:
     enable: true  # 是否启用导航菜单图标
@@ -97,11 +97,11 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
-    author_title: author title
+    author: Kostas
+    author_title: PhD Candidate Economics
     author_description: Good Good Study, Day Day Up~
-    location: Shanghai, China
-    follow: https://github.com/xiaoheiAh
+    location: Lancaster University
+    follow: https://kvasilopoulos.com
     # Social Links
     social:
       links:
@@ -117,9 +117,9 @@ params:
       enabled: true
       width: 40
       height: 40
-      url: favicon.ico
+      url: logo.png # favicon.ico
     title: Hugo # 页面title
-    favicon: favicon.ico
+    favicon: logo.png # favicon.ico
     board: <p>enjoy~</p> # 公告牌
 
   # Share
@@ -132,7 +132,7 @@ params:
   # Comment
   comment:
     type:  # type disqus/gitalk/valine 启用哪种评论系统
-    disqus: your_disqus_name # enter disqus shortname here
+    #disqus: your_disqus_name # enter disqus shortname here
     gitalk: # gitalk. https://gitalk.github.io/
       owner: #必须. GitHub repository 所有者，可以是个人或者组织。
       admin: #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
@@ -165,7 +165,7 @@ params:
   # PV
   pv:
     busuanzi:
-      enable: false # 不蒜子统计
+      enable: false #total vies
     leancloud:
       enable: false # leancloud统计
       app_id: # leancloud <AppID>
@@ -174,12 +174,12 @@ params:
   # wordcount
   postCount:
     enable: true
-    wordcount: true # 文章字数统计
+    wordcount: false # 文章字数统计
     min2read: true # read time 阅读时长预计
 
   # config
   config:
-    skin: theme-blue # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
+    skin: "" # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
     layout: main-center # main-left main-center main-right
     excerpt_link: Read More
     toc: true
@@ -193,7 +193,7 @@ params:
 
   # Sidebar only the following widgets. you can remove any you don't like it.
   widgets:
-    - board
+    # - board
     - category
     - tag
     - recent_posts
