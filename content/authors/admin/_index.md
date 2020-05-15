@@ -57,6 +57,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=jIskI9oAAAAJ&hl=en&authuser=1
+- icon: ideas-repec
+  icon_pack: ai
+  link: https://ideas.repec.org/f/pva899.html
 - icon: cv
   icon_pack: ai
   link: ./cv/cv.pdf

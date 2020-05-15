@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Kostas Vasilopoulos</title>
-    <link>https://kvasilopoulos.com/categories/</link>
-      <atom:link href="https://kvasilopoulos.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright>
     <image>
-      <url>https://kvasilopoulos.com/img/kostas2.jpeg</url>
+      <url>/img/kostas2.jpeg</url>
       <title>Categories</title>
-      <link>https://kvasilopoulos.com/categories/</link>
+      <link>/categories/</link>
     </image>
     
   </channel>
