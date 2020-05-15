@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kostas Vasilopoulos</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kvasilopoulos.com/</link>
+      <atom:link href="https://kvasilopoulos.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Kostas Vasilopoulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/kostas2.jpeg</url>
+      <url>https://kvasilopoulos.com/img/kostas2.jpeg</url>
       <title>Kostas Vasilopoulos</title>
-      <link>/</link>
+      <link>https://kvasilopoulos.com/</link>
     </image>
     
     <item>
       <title>exuber: Recursive Right-Tailed Unit Root Testing with R</title>
-      <link>/publication/exuber/index/</link>
+      <link>https://kvasilopoulos.com/publication/exuber/index/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/exuber/index/</guid>
+      <guid>https://kvasilopoulos.com/publication/exuber/index/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks</title>
-      <link>/publication/ahpremia/index/</link>
+      <link>https://kvasilopoulos.com/publication/ahpremia/index/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ahpremia/index/</guid>
+      <guid>https://kvasilopoulos.com/publication/ahpremia/index/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -62,25 +62,25 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Codes</title>
-      <link>/codes/</link>
+      <link>https://kvasilopoulos.com/codes/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/codes/</guid>
+      <guid>https://kvasilopoulos.com/codes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Codes</title>
-      <link>/cv/</link>
+      <link>https://kvasilopoulos.com/cv/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/cv/</guid>
+      <guid>https://kvasilopoulos.com/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commercial Real Estate, Housing and the Business Cycle</title>
-      <link>/publication/cre/index/</link>
+      <link>https://kvasilopoulos.com/publication/cre/index/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/cre/index/</guid>
+      <guid>https://kvasilopoulos.com/publication/cre/index/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -103,17 +103,17 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Events</title>
-      <link>/events/</link>
+      <link>https://kvasilopoulos.com/events/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/events/</guid>
+      <guid>https://kvasilopoulos.com/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real Estate and Monetary Policy: Residential and Commercial</title>
-      <link>/publication/real-estate-mp/index/</link>
+      <link>https://kvasilopoulos.com/publication/real-estate-mp/index/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/real-estate-mp/index/</guid>
+      <guid>https://kvasilopoulos.com/publication/real-estate-mp/index/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -136,17 +136,17 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>International Housing Observatory</title>
-      <link>/project/international-housing-observatory/</link>
+      <link>https://kvasilopoulos.com/project/international-housing-observatory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/international-housing-observatory/</guid>
+      <guid>https://kvasilopoulos.com/project/international-housing-observatory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>United Kingdom Housing Observatory</title>
-      <link>/project/uk-housing-observatory/</link>
+      <link>https://kvasilopoulos.com/project/uk-housing-observatory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/uk-housing-observatory/</guid>
+      <guid>https://kvasilopoulos.com/project/uk-housing-observatory/</guid>
       <description></description>
     </item>
     
