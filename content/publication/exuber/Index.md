@@ -5,7 +5,7 @@ authors:
 - Efthymios Pavlidis
 - Enrique Martínez-García
 date: "2020-05-01T00:00:00Z"
-doi: "https://doi.org/10.24149/gwp383"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
