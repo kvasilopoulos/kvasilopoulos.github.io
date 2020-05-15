@@ -1,0 +1,6 @@
+{{ $item := . }}
+
+<p>
+    <span style= "font-style: italic;">{{.date}}</span> :
+    {{with .description}} {{ . | markdownify | emojify}} {{end}}
+</p>

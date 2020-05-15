@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # 6 = Journal Article
 # 7 = Thesis 
 # 8 = Patent
-publication_types: ["4"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "**R&R Journal of International Money and Finance**"

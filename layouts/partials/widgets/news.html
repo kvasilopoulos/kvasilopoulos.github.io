@@ -1,0 +1,17 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $paginator :=  first $page.Params.paginate ($page.Params.inew) }}
+
+<div class="row">
+    <div class="col-12 col-lg-4 section-heading">
+        {{ with $page.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
+        {{ with $page.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+    </div>
+    <div class="col-12 col-lg-8">
+        {{ range  $paginator }}
+        <ul>
+            <li> {{ partial "inew" .}} </li>
+        </ul>
+        {{ end }}
+    </div>
+</div>

@@ -15,6 +15,7 @@ weight = 70
 
 +++
 
+* Lancaster PhD Summer School on Applied Macroeconometrics, Lancaster, September, 2019
 * 3rd Annual International Conference on Macroeconomic Analysis and International Finance (ICMAIF 2019), Rethymno, May, 2019
 * North West Social Sciences Doctoral Training Partnership, Lancaster University, Lancaster, May, 2019
 * 5th International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April 2019

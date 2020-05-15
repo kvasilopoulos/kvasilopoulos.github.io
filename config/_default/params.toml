@@ -18,11 +18,11 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "kostas"
+font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -93,7 +93,7 @@ address = {street = "B81, LUMS, Lancaster University", city = "Lancaster", regio
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Personal website of Kostas Vasilopoulos"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

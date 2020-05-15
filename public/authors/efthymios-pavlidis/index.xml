@@ -5,12 +5,36 @@
     <link>/authors/efthymios-pavlidis/</link>
       <atom:link href="/authors/efthymios-pavlidis/index.xml" rel="self" type="application/rss+xml" />
     <description>Efthymios Pavlidis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Kostas Vasilopoulos</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/kostas2.jpeg</url>
       <title>Efthymios Pavlidis</title>
       <link>/authors/efthymios-pavlidis/</link>
     </image>
+    
+    <item>
+      <title>exuber: Recursive Right-Tailed Unit Root Testing with R</title>
+      <link>/publication/exuber/index/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/exuber/index/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --!&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks</title>

@@ -4,7 +4,7 @@
 
 <h4>
   <i class="fas fa-cube"></i>
-  <a href="https://kvasilopoulos.github.io/{{ $item.name }}/" target="_blank">
+  <a href="https://kvasilopoulos.github.io/{{ $item.name }}/" target="_blank" rel="noopener">
     &nbsp; {{ $item.name }}: {{ $item.title}}
   </a>
 </h4>
@@ -17,7 +17,7 @@
 
     <div class="column">
       <p>
-        <a href="https://cran.r-project.org/package={{ $item.name }}" target="_blank">
+        <a href="https://cran.r-project.org/package={{ $item.name }}" target="_blank" rel="noopener">
           <img src="https://www.r-pkg.org/badges/version/{{ $item.name }}" alt="CRAN_Status_Badge" />
         </a>
       </p>
@@ -30,11 +30,19 @@
     </div>
     
     <div class="column">
-      <p style="padding-left: 300px;">
-        <a class="github-button" href="https://github.com/kvasilopoulos/{{ .name }}"
+      <a style="margin-left: 300px;margin-top:-0.5rem" class="btn btn-outline-primary mr-1 btn-sm"
+        aria-label="Github kvasilopoulos/{{ .name }}"
+      href="https://github.com/kvasilopoulos/{{ .name }}" target="_blank" rel="noopener">
+        <i class="fab fa-github mr-1"></i>
+        @kvasilopoulos/{{ .name }}
+      </a>
+
+      <!-- <a href="https://github.com/kvasilopoulos/{{ .name }}" class="btn-primary"> @kvasilopoulos/{{ .name }}</a> -->
+      <!-- <p style="padding-left: 300px;">
+        <a class="button" href="https://github.com/kvasilopoulos/{{ .name }}"
           data-size = "large" aria-label="Github kvasilopoulos/{{ .name }}"
           data-color-scheme="no-preference: light; light: light; dark: dark;"
-          >  @kvasilopoulos/{{ .name }}</a>
+          >  @kvasilopoulos/{{ .name }}</a> -->
       </p>
     </div>
 
