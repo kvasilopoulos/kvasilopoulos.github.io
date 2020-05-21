@@ -3,7 +3,10 @@ title: This is a peculiar title
 author: KostasVasilopoulos
 description: It seems it needs a description
 draft: true
-output: md_document
+output: 
+  html_document:
+    keep_md: true
+    self_contained: true
 date: '2019-04-30'
 slug: new-rmd
 categories: []

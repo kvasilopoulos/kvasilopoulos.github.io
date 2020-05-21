@@ -3,7 +3,9 @@ title: This is a peculiar title
 author: KostasVasilopoulos
 description: It seems it needs a description
 draft: true
-output: md_document
+output: 
+  md_document:
+     variant: markdown_github
 date: '2019-04-30'
 slug: new-rmd
 categories: []
