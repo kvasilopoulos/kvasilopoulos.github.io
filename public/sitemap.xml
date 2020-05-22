@@ -168,4 +168,10 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://blog.kvasilopoulos.com/1/01/2020-04-30-new-rmd/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
