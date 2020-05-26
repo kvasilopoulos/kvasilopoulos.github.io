@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.5)  25 FEB 2020 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.21)  26 MAY 2020 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv.tex
 (./cv.tex
-LaTeX2e <2020-02-02>
-L3 programming layer <2020-02-03> (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06> (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf
 -dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -64,7 +64,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.
 sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks14
+\@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -83,7 +83,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
+\@emptytoks=\toks16
 \ex@=\dimen135
 ))
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -113,21 +113,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count182
 \dspbrk@lvl=\count183
-\tag@help=\toks16
+\tag@help=\toks17
 \row@=\count184
 \column@=\count185
 \maxfields@=\count186
-\andhelp@=\toks17
+\andhelp@=\toks18
 \eqnshift@=\dimen138
 \alignsep@=\dimen139
 \tagshift@=\dimen140
 \tagwidth@=\dimen141
 \totwidth@=\dimen142
 \lineht@=\dimen143
-\@envbody=\toks18
+\@envbody=\toks19
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks19
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
@@ -135,7 +135,7 @@ LaTeX Info: Redefining \] on input line 2860.
 y
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.s
 ty
@@ -151,7 +151,7 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/01/25 v2.0m Standard LaTeX package
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 2.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
@@ -159,15 +159,15 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )) (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.s
 ty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks20
-\inpenc@posthook=\toks21
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
 )
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/upquote/upquote.st
 y
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0m Standard LaTeX package
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ))
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.
 sty
@@ -176,7 +176,7 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.st
 y
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks22
+\KV@toks@=\toks23
 )
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -192,7 +192,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen149
 \Gm@layouthoffset=\dimen150
 \Gm@layoutvoffset=\dimen151
-\Gm@dimlist=\toks23
+\Gm@dimlist=\toks24
 )
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.st
 y
@@ -209,7 +209,7 @@ LaTeX Warning: Command \underline  has changed.
 )
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/parskip/parskip.st
 y
-Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+Package: parskip 2020-05-19 v2.0e non-zero parskip adjustments
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoption
 s.sty
@@ -256,7 +256,7 @@ Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
 sty
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pdftexcmds/pdftexc
 mds.sty
@@ -297,7 +297,7 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -310,20 +310,19 @@ s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count193
-\pdfmajorversion=\count194
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count195
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count194
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5159.
+LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen153
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.st
@@ -335,39 +334,39 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count196
+\Fld@menulength=\count195
 \Field@Width=\dimen154
 \Fld@charsize=\dimen155
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring OFF on input line 6450.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/atbegshi/atbegsh
 i.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count197
-\c@Item=\count198
-\c@Hfootnote=\count199
+\Hy@abspage=\count196
+\c@Item=\count197
+\c@Hfootnote=\count198
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.d
 ef
-File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/atveryend/atveryen
 d.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count266
-\c@bookmark@seq@number=\count267
+\Fld@listcount=\count199
+\c@bookmark@seq@number=\count266
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rer
 unfilecheck.sty
@@ -385,7 +384,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `unicode' set `true' on input line 97.
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -398,13 +397,13 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.
 sty
-Package: titlesec 2019/07/16 v2.11 Sectioning titles
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box47
 \beforetitleunit=\skip62
 \aftertitleunit=\skip63
 \ttl@plus=\dimen156
 \ttl@minus=\dimen157
-\ttl@toksa=\toks24
+\ttl@toksa=\toks25
 \titlewidth=\dimen158
 \titlewidthlast=\dimen159
 \titlewidthfirst=\dimen160
@@ -434,8 +433,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count268
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count267
 \l__pdf_internal_box=\box48
 ) (./cv.aux)
 \openout1 = `cv.aux'.
@@ -510,7 +509,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count269
+\c@section@level=\count268
 )
 LaTeX Info: Redefining \ref on input line 108.
 LaTeX Info: Redefining \pageref on input line 108.
@@ -573,39 +572,39 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 209.
+(Font)              <10> on input line 213.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 209.
+(Font)              <7> on input line 213.
 [1
 
 {c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 251.
+(hyperref)                be the same. Added a new anchor on input line 255.
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 255--258
+Underfull \hbox (badness 1728) in paragraph at lines 262--265
 []\T1/lmr/m/n/10 3rd An-nual In-ter-na-tional Con-fer-ence on Macroe-co-nomic A
 nal-y-sis and In-ter-na-tional Fi-nance,
  []
 
-
+[2] 
 AED: lastpage setting LastPage
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 322.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 322.
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 329.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 329.
 (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 322.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 322.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 329.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 329.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 2950B6B40C9EE4B701346FC2D8F69A5E;1769.
  ) 
 Here is how much of TeX's memory you used:
- 12539 strings out of 483192
- 178338 string characters out of 5964897
- 430026 words of memory out of 5000000
- 27333 multiletter control sequences out of 15000+600000
+ 12534 strings out of 482530
+ 178307 string characters out of 5949330
+ 434546 words of memory out of 5000000
+ 27974 multiletter control sequences out of 15000+600000
  581661 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  34i,11n,45p,1205b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -622,10 +621,10 @@ AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/T46
 0p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/
 T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/U
 sers/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on cv.pdf (2 pages, 214116 bytes).
+Output written on cv.pdf (3 pages, 214360 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 

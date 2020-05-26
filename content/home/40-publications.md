@@ -66,12 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
-<p style="position: absolute;text-align:right;width: 80%;bottom: -50px;">
+<!-- <p style="position: absolute;text-align:right;width: 80%;bottom: -50px;">
   <a href="./publication/">  
     <i class="fas fa-angle-double-right"></i>
     See all Research 
   </a>
-</p>
+</p> -->
 
 
 

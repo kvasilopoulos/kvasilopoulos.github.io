@@ -51,7 +51,9 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
 
 # Research
 
-* Pavlidis E., Vasilopoulos K. (2019). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks. **R&R Journal of International Money and Finance**.
+* Pavlidis E., Vasilopoulos K. (2019). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks. **Journal of International Money and Finance** (accepted).
+
+*  Kostas Vasilopoulos, Efthymios Pavlidis, Enrique Martínez-García (2020). exuber: Recursive Right-Tailed Unit Root Testing with R. **Dallas Fed Working Paper**.
 
 * Vasilopoulos K., Tayler W. (2019). Commercial Real Estate, Housing and the Business Cycle. **Working Paper**
 
