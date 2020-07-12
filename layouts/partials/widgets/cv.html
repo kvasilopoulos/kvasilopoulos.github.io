@@ -1,0 +1,29 @@
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+
+    {{ if ne $columns "1" }}
+    <div class="col-12 col-lg-12 section-heading" style="text-align: right;">
+        {{/*  {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}  */}}
+        <a href="cv.pdf"
+            class="btn btn-dark active" style="padding: .5rem 1rem;font-size: 1rem;line-height: 1.15;border-radius:.3rem;"
+            role="button" aria-pressed="true"> <i class="fa fa-download"></i> Download
+        </a>
+        {{/*  {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}  */}}
+    </div>
+    <div class="col-12 col-lg-12">
+        {{ $st.Content }}
+    </div>
+    <div class="col-12 col-lg-12" style="text-align: center;">
+        {{/*  <a href="cv.pdf" class="btn btn-dark btn-lg active"
+            style="padding: .5rem 1rem;font-size: 1rem;line-height: 1.15;border-radius:.3rem;"
+            aria-pressed="true"> <i class="fa fa-download"></i> Download
+        </a>  */}}
+    </div>
+    {{ else }}
+    <div class="col-lg-12">
+        {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
+        {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+        {{ $st.Content }}
+    </div>
+    {{ end }}
+
