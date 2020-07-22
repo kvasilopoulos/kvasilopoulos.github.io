@@ -3,11 +3,11 @@ title: "Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Li
 authors:
 - Efthymios Pavlidis
 - admin
-date: "2019-02-01T00:00:00Z"
-doi: ""
+date: "2020-12-01T00:00:00Z"
+doi: "10.1016/j.jimonfin.2020.102222"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-12T00:00:00Z"
 
 # Publication type.
 # 0 = Uncategorized; 
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Journal of International Money and Finance** (accepted)"
+publication: "**Journal of International Money and Finance**"
 publication_short: ""
 
 abstract: We propose a novel approach for testing for rational speculative bubbles in segmented capital markets. The basic idea is that, under capital controls, heterogeneity of speculative expectations across international equity markets causes financial assets with identical cash flow promises to trade at different prices. Because these deviations from the law of one price inherit the properties of the speculative bubble process, they display periods of explosive dynamics and have predictive power for future movements in equity prices in sample. These two hypotheses can be examined empirically using sequential unit root tests and predictive regressions. An attractive feature of this approach for bubble detection is that it does not require the specification of a model for market fundamentals, thus mitigating the well-known joint hypothesis problem. The focus of the paper is on mainland Chinese companies that cross list shares in Hong Kong. China is an ideal setting for our analysis because of the significant restrictions on capital movements imposed by the authorities and the turbulent behaviour of its stock market over the last decades.
@@ -31,7 +31,7 @@ abstract: We propose a novel approach for testing for rational speculative bubbl
 summary: 
 
 tags:
-- Source Themes
+- speculative bubbles
 featured: false
 
 # links:
@@ -67,6 +67,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
+
+
 
 <!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
