@@ -4,9 +4,13 @@
 
 <h4>
   <i class="fas fa-cube"></i>
-  <a href="https://kvasilopoulos.github.io/{{ $item.name }}/" target="_blank" rel="noopener">
-    &nbsp; {{ $item.name }}: {{ $item.title}}
-  </a>
+   {{ if .dev }}
+      &nbsp; {{ .name }}: {{ .title}}
+   {{else}}
+      <a href="https://kvasilopoulos.github.io/{{ $item.name }}/" target="_blank" rel="noopener">
+      &nbsp; {{ .name }}: {{ .title}}
+      </a>
+    {{end}}
 </h4>
 
   <p style="font-size:16px;">
@@ -14,7 +18,6 @@
   </p>
 
   <div class="row">
-
     <div class="column">
       <p>
         <a href="https://cran.r-project.org/package={{ $item.name }}" target="_blank" rel="noopener">
@@ -24,10 +27,15 @@
     </div>
     
     <div class="column" style="padding-left: 10px;">
-      <p>
-        <img src="https://cranlogs.r-pkg.org/badges/grand-total/{{ $item.name }}" alt="CRAN_Status_Badge" />
-      </p>
+      {{ if .dev }}
+        <p style = "padding-right:105px;"> </p>
+      {{else}}
+        <p>
+          <img src="https://cranlogs.r-pkg.org/badges/grand-total/{{ $item.name }}" alt="CRAN_Status_Badge" />
+        </p>
+      {{end}}
     </div>
+    
     
     <div class="column">
       <a style="margin-left: 300px;margin-top:-0.5rem" class="btn btn-outline-primary mr-1 btn-sm"
@@ -36,6 +44,7 @@
         <i class="fab fa-github mr-1"></i>
         @kvasilopoulos/{{ .name }}
       </a>
+    </div>
 
       <!-- <a href="https://github.com/kvasilopoulos/{{ .name }}" class="btn-primary"> @kvasilopoulos/{{ .name }}</a> -->
       <!-- <p style="padding-left: 300px;">
@@ -43,9 +52,8 @@
           data-size = "large" aria-label="Github kvasilopoulos/{{ .name }}"
           data-color-scheme="no-preference: light; light: light; dark: dark;"
           >  @kvasilopoulos/{{ .name }}</a> -->
-      </p>
-    </div>
-
+      
+    
   </div>
 </div>
 
