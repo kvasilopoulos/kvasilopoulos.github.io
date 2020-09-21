@@ -9,3 +9,8 @@
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.62.2"
   HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/*"
+  to = "http://207.154.198.215/"
+  status = 200
