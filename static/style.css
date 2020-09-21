@@ -1,0 +1,74 @@
+html{
+    font-size: 16px;
+}
+
+.navbar-brand {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    position: relative;
+    z-index: 1030;
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: .35rem;
+    padding-bottom: .35rem;
+    margin-right: 1rem;
+    font-size: 1.2rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.navbar {
+    height: 70px;
+    background: #fff;
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
+    font-size: 13.86px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    padding: 0 1rem;
+}
+
+.card {
+    margin: 0 auto;
+    /* Added */
+    float: none;
+    /* Added */
+    margin-bottom: 10px;
+    /* Added */
+}
+
+img {
+    padding: 2rem;
+}
+
+.img2 {
+    padding: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: black !important;
+}
+
+
+.col-sm-6 a:hover {
+    text-decoration: none !important;
+}
+
+.card {
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, .08), 0 0 6px rgba(0, 0, 0, .05);
+    transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+    padding: 14px 42px 18px 42px;
+    cursor: pointer;
+}
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+}
