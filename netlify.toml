@@ -11,6 +11,11 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "*"
-  to = "http://207.154.198.215"
+  from = "/rstudio/"
+  to = "http://207.154.198.215/rstudio/"
+  status = 200
+
+[[redirects]]
+  from = "/shiny/"
+  to = "http://207.154.198.215/shiny/"
   status = 200
