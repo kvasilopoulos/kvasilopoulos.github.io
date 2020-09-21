@@ -12,6 +12,6 @@
 
 [[redirects]]
   from = "/*"
-  to = "http://207.154.198.215/:splat"
+  to = "http://207.154.198.215/"
   status = 200
   force = true
