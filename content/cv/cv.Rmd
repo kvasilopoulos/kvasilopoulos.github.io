@@ -47,6 +47,18 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
 
   **B.Sc. Economics**  \hfill  <span style = "float:right;"> *Sept 2009- Aug 2014* </span> \newline <br>
   University of Macedonia \hfill <span style = "float:right;"> *Thessaloniki, Greece* </span>
+
+<!--- Projects --->
+
+# Projects & Research Groups
+
+I am a member and the maintainer of two projects on monitoring housing markets for episodes of exuberance:
+
+* UK Housing Observatory [[link]](uk.housing-observatory.com) \newline <br>
+    Affiliation: Lancaster University
+
+* International Housing Observatory [[link]](int.housing-observatory.com) \newline <br>
+    Affiliation: Collaboration of Lancaster University with the Globalization & Monetary Policy Institute of the Federal Reserve Bank of Dallas
   
 <!--- Research --->
 
@@ -57,16 +69,6 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
 *  Kostas Vasilopoulos, Efthymios Pavlidis, Enrique Martínez-García (2020). exuber: Recursive Right-Tailed Unit Root Testing with R. **Dallas Fed Working Paper**.
 
 * Vasilopoulos K., Tayler W. (2019). Commercial Real Estate, Housing and the Business Cycle. **Working Paper**
-
-<!--- Projects --->
-
-# Projects & Research Groups
-
-* UK Housing Observatory [[link]](http://www.lancaster.ac.uk/lums/economics/research/housing/)
-
-* International Housing Observatory [[link]](https://lancs-macro.shinyapps.io/international-housing-observatory/)
-
-* Centre for Financial Econometrics, Asset Markets and Macroeconomic Policy
 
 <!--- Technical Publications --->
 
@@ -80,9 +82,9 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
 
 # IT Literacy
 
-Advanced knowledge:  R
+Advanced knowledge:  R, Matlab
 
-Intermediate Knowledge: Python, Matlab, C++, Git, Latex: 
+Intermediate Knowledge: Python, C++, Git, Latex
 
 Basic knowledge: HTML/CSS
 
@@ -104,28 +106,33 @@ Basic knowledge: HTML/CSS
 
 # Conference Presentations
 
-## 2019
-  
-  * Lancaster PhD Summer School on Applied Macroeconometrics, Lancaster, September, 2019
+```{r confs, echo=FALSE, results='asis'}
+conferences_md <- here::here("content/events/conferences.md")
+cat(paste0(readLines(conferences_md)[-c(1:17)], collapse = "\n"))
+```
 
-  * 3rd Annual International Conference on Macroeconomic Analysis and International Finance, Rethymno, May, 2019
+<!-- ## 2019 -->
 
-  * North West Social Sciences Doctoral Training Partnership, Lancaster University, Lancaster, May, 2019
+<!--   * Lancaster PhD Summer School on Applied Macroeconometrics, Lancaster, September, 2019 -->
 
-  * 5th International Conference on Applied Theory, Macro and Empirical Finance,
-University of Macedonia, Thessaloniki, April 2019
+<!--   * 3rd Annual International Conference on Macroeconomic Analysis and International Finance, Rethymno, May, 2019 -->
 
-## 2018
+<!--   * North West Social Sciences Doctoral Training Partnership, Lancaster University, Lancaster, May, 2019 -->
 
-  * The 12th International Conference on Computational and Financial Econometrics , University of Pisa, Pisa, 14-16 December 2018.
+<!--   * 5th International Conference on Applied Theory, Macro and Empirical Finance, -->
+<!-- University of Macedonia, Thessaloniki, April 2019 -->
 
-  * 4th International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2018
+<!-- ## 2018 -->
 
-  * North West Social Sciences Doctoral Training Partnership The University of Manchester, Manchester, May, 2018
+<!--   * The 12th International Conference on Computational and Financial Econometrics , University of Pisa, Pisa, 14-16 December 2018. -->
 
-## 2017
+<!--   * 4th International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2018 -->
 
-  * 3rd International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2017
+<!--   * North West Social Sciences Doctoral Training Partnership The University of Manchester, Manchester, May, 2018 -->
+
+<!-- ## 2017 -->
+
+<!--   * 3rd International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2017 -->
 
 
 <!--- Events --->

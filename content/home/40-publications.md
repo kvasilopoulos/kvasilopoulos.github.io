@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Research"
-subtitle = ""
+subtitle = """<p><a class="btn btn-primary" href="/publication/"><i class="far fa-newspaper fa-fw"></i> See All Publications</a> </p>"""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

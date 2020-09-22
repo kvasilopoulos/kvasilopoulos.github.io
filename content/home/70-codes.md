@@ -7,17 +7,17 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Codes"
-subtitle = "Selected R packages"
+title = "<span> Software </span>"
+subtitle = """<span> <a class="btn btn-primary" href="/publication/"><i class="far fa-newspaper fa-fw"></i> See All Software</a> </span>"""
 
 # Order that this section will appear in.
 weight = 70
 
 +++
-
  
-<p style = "font-size:18px;margin-left:-2em; font-weight: bold; margin-bottom: 2rem;"> 
-  I am the author and the maintainer of the following packages on CRAN: 
+
+<p style = "font-size:18px; font-weight: bold; margin-bottom: 2rem;"> 
+  I am the author and the maintainer of the following packages(selected) on CRAN: 
 </p>
 
 
@@ -66,9 +66,16 @@ weight = 70
 </p>
 -->
 
-<p style="text-align:right;width: 80%;padding-top:42px;">
+<div class="see-all">
+  <a href="/codes/">
+    See all Software
+    <i class="fas fa-angle-right"></i>
+  </a>
+</div>
+
+<!-- <p style="text-align:right;width: 80%;padding-top:42px;">
   <a href="./codes/">  
     <i class="fas fa-angle-double-right"></i>
     Comprehensive List
   </a>
-</p>
+</p>-->

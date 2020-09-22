@@ -27,8 +27,9 @@ weight = 30
   name = "batchdl"
   dev = true
   title =  "Batch Downloader"
-  description = """
+  description = """ 
    Download many links from a website easily. Able to to download
     multiple file formats at the same time.
   """
+  
 +++t
