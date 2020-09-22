@@ -9,3 +9,23 @@
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.62.2"
   HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/rstudio"
+  to = "http://207.154.198.215/rstudio"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/shiny"
+  to = "http://207.154.198.215/shiny"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/shiny/*"
+  to = "http://207.154.198.215/shiny/:splat/"
+  status = 200
+  force = true
+
+
