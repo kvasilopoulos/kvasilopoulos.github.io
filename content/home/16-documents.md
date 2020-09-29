@@ -20,7 +20,15 @@ subtitle = "Academic"
 <div class="row">
   
   <div class="col-12 col-sm-4">
-    <div class="featurette-icon"><i class="ai ai-cv"></i></div>
+    <div class="featurette-icon">
+    <ul class="network-icon" aria-hidden="true">
+      <li class="li-icon">
+        <a href = "/cv/" class="grow">
+          <i class="ai ai-cv"></i>
+        </a>
+      </li>
+      </ul>
+    </div>
     <h3>Curriculum Vitae</h3>
     <ul class="network-icon" aria-hidden="true">
       <li class="li-icon">
@@ -72,9 +80,21 @@ subtitle = "Academic"
 </div>
 
 <style>
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+
+.a-icon {
+  transition: all .2s ease-in-out;
+}
+
+.a-icon:hover {
+  color: red;
+  transform: scale(1.1);
+}
 .li-icon {
   padding: 10px;
 }
+<a>
 </style>
 
 

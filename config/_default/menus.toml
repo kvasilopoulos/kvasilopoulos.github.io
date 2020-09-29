@@ -23,7 +23,6 @@
   url = "/events/"
   weight = 40
   
-  
 [[main]]
   identifier = "docs"
   name = "Documents"
@@ -54,13 +53,12 @@
   name = "Contact"
   url = "#contact"
   weight = 60
-  
-# [[main]]
-#   align = "right"
-#   name = "Blog"
-#   url = "#blog"
-#   weight = 70
-  
+
+
+ #[[main]]
+  # name = "Posts"
+   #url = "/post/"
+   #weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
