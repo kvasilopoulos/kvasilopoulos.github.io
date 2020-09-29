@@ -33,6 +33,18 @@ urlcolor: blue
 
 Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dynamic Stochastic General Equilibrium (DSGE) modelling
 
+<!--- Employment --->
+
+# Employment
+
+ **Research Assistant, UK Housing Observatory** \hfill <span style = "float:right;">  *Mar 2019- Sep 2020* </span> \newline <br>
+  Lancaster University  \hfill <span style = "float:right;"> *Lancaster, UK* </span>
+
+
+  **Graduate Teaching Assistant** \hfill <span style = "float:right;">  *Oct 2016- Sep 2020* </span> \newline <br>
+  Lancaster University  \hfill <span style = "float:right;"> *Lancaster, UK* </span>
+
+
 <!--- Education --->
 
 # Education 
@@ -66,9 +78,9 @@ I am a member and the maintainer of two projects on monitoring housing markets f
 
 * Pavlidis E., Vasilopoulos K. (2019). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks. **Journal of International Money and Finance** (accepted).
 
-*  Kostas Vasilopoulos, Efthymios Pavlidis, Enrique Martínez-García (2020). exuber: Recursive Right-Tailed Unit Root Testing with R. **Dallas Fed Working Paper**.
+* Kostas Vasilopoulos, Efthymios Pavlidis, Enrique Martínez-García (2020). exuber: Recursive Right-Tailed Unit Root Testing with R. **Dallas Fed Working Paper**.
 
-* Vasilopoulos K., Tayler W. (2019). Commercial Real Estate, Housing and the Business Cycle. **Working Paper**
+* Vasilopoulos K., Tayler W. (2019). Real Estate and Construction Sector Dynamics in the Business Cycle. **Working Paper**
 
 <!--- Technical Publications --->
 
@@ -135,9 +147,22 @@ cat(paste0(readLines(conferences_md)[-c(1:17)], collapse = "\n"))
 <!--   * 3rd International Conference on Applied Theory, Macro and Empirical Finance, University of Macedonia, Thessaloniki, April, 2017 -->
 
 
+# Teaching Courses
+
+* Graduate Teaching Assistants Workshop, University of Nottingham, Oct 2016
+
+* Introduction to Teaching at Lancaster (ITL), Lancaster University, Oct 2016
+
+
 <!--- Events --->
 
 # Summer Schools, Workshops and Training
+
+* Summer School - Bayesian Methods for Empirical Macroeconomics, 29th – 30th June 2020, Lancaster University, UK.
+[[link]](https://sites.google.com/view/lancseconsummer/home)
+
+* Summer School - Applied Macroeconometrics, 25th – 27th September 2019, Lancaster University, UK.
+[[link]](http://wp.lancs.ac.uk/lancaster-phd-summer-school-2019/)
 
 * Summer School -  Advanced Courses on DSGE Macroeconomic Modelling, 4-8 Sept 2017, University of Surrey, UK. [[link]](https://www.surrey.ac.uk/events/20180903-foundations-and-advanced-courses-dsge-macroeconomic-modelling-and-conference-summer)
 

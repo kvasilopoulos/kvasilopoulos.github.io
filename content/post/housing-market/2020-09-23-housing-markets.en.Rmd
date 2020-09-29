@@ -1,0 +1,28 @@
+---
+title: Housing Markets
+author: KostasVasilopoulos
+date: '2020-09-23'
+slug: Housing Markets
+categories: [mpla]
+toc: true
+tags:
+  - housing-markets
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-09-23T00:51:57+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+# heading 1
+
+## heading 2
+
+```{r r-code}
+hist(mtcars$hp)
+```

@@ -23,11 +23,32 @@
   url = "/events/"
   weight = 40
   
-[[main]]
-  name = "CV"
+#[[main]]
+  identifier = "docs"
+  name = "Documents"
   url = "/cv/"
   weight = 50
 
+[[main]]
+  name = "Cirriculum Vitae"
+  pre = "<i style='padding-right:6px;'class='ai ai-cv'></i>"
+  parent = "docs"
+  weight = 10
+  
+[[main]]
+  name = "Reseach Statement"
+  parent = "docs"
+  pre = "<i style='padding-right:6px;' class='fas fa-graduation-cap'></i>"
+  url = "/research-statement/"
+  weight = 20
+  
+[[main]]
+  name = "Teaching Statement"
+  parent = "docs"
+  pre = "<i style='padding-right:6px;'class='fas fa-chalkboard-teacher'></i>"
+  url = "/teaching-statement/"
+  weight = 20
+  
 [[main]]
   name = "Contact"
   url = "#contact"
