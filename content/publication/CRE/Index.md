@@ -1,5 +1,5 @@
 ---
-title: "Commercial Real Estate, Housing and the Business Cycle"
+title: "Real Estate and Construction Sector Dynamics in the Business Cycle"
 authors:
 - admin
 - William Tayler
@@ -22,26 +22,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
+publication: "**Working Paper**"
 publication_short: ""
 
-abstract: The 2007-08 financial crisis exposed the magnitude through which distortions in residential and commercial real estate markets can spillover to the goods markets and the real economy. This paper develops an RBC model with a consumption good and a construction sector, where both commercial and residential real estate forms the construction sector. We investigate the property-price and investment dynamics when there is competition between households and firms for real estate and the implications this market structure has for macroeconomic fluctuations. In doing so we develop a 'real estate substitution channel', where demand shocks, by raising the costs of production create a substitution between the two types of real estate. This gives an alternative interpretation to the housing preference shock, which rather than simply representing a shift in preferences, is also explained as a supply shock to the commercial real estate. The estimated model reveals that housing preference shocks explain the largest part of the variation in property prices and residential investment, while commercial real estate prices are is driven primarily by  technology shock.
+abstract: We investigate the business cycle, property-price and investment dynamics when there is competition between households and firms for real estate.  We introduce a construction sector into a RBC framework, which uses land, capital and labour to produce both commercial and residential real estate.  This market structure activates a `real estate substitution channel', where economic disturbances which alter the demand for one type of real estate, by affecting the overall costs of real estate production, endogenously create a substitution with its counterpart. For example, an increase in demand for residential real estate also increases the cost of producing commercial structures, which reduces the quantity demanded by firms. In turn, this crowds out commercial real estate which affects the goods market in a similar way to an adverse aggregate supply shock. The estimated model reveals that housing preference shocks explain the largest part of the variation in property prices and residential investment, while commercial real estate prices are primarily driven by technology shocks.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Source Themes
+- Real Estate
+- Research Paper
 featured: true
 
 links:
 - name: "Appendix"
-  url: files/Commercial_Real_Estate_Appendix.pdf
+  url: files/Real_Estate_and_Construction_Sector_Dynamicsin_the_Business_Cycle_Appendix.pdf
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Commercial_Real_Estate.pdf
+url_pdf: files/Real_Estate_and_Construction_Sector_Dynamicsin_the_Business_Cycle.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
