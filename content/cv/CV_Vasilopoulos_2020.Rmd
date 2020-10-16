@@ -60,53 +60,49 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
   **B.Sc. Economics**  \hfill  <span style = "float:right;"> *Sept 2009- Aug 2014* </span> \newline <br>
   University of Macedonia \hfill <span style = "float:right;"> *Thessaloniki, Greece* </span>
 
-<!--- Projects --->
 
-# Projects & Research Groups
-
-I am a member and the maintainer of two projects on monitoring housing markets for episodes of exuberance:
-
-* UK Housing Observatory [[link]](uk.housing-observatory.com) \newline <br>
-    Affiliation: Lancaster University
-
-* International Housing Observatory [[link]](int.housing-observatory.com) \newline <br>
-    Affiliation: Collaboration of Lancaster University with the Globalization & Monetary Policy Institute of the Federal Reserve Bank of Dallas
-  
 <!--- Research --->
 
 # Research
 
-* Pavlidis E., Vasilopoulos K. (2019). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks. **Journal of International Money and Finance** (accepted).
+* Pavlidis E., Vasilopoulos K. (2020). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks. **Journal of International Money and Finance** .
 
-* Kostas Vasilopoulos, Efthymios Pavlidis, Enrique Martínez-García (2020). exuber: Recursive Right-Tailed Unit Root Testing with R. **Dallas Fed Working Paper**.
+* Vasilopoulos K., Pavlidis E., Martínez-García E.(2020). exuber: Recursive Right-Tailed Unit Root Testing with R. **Dallas Fed Working Paper**.
 
 * Vasilopoulos K., Tayler W. (2019). Real Estate and Construction Sector Dynamics in the Business Cycle. **Working Paper**
 
-<!--- Technical Publications --->
+<!--- Projects --->
 
-# Technical Publications
+# Projects & Research Groups
 
-*   Vasilopoulos Kostas, Pavlidis Efthymios, Spavound Simon and Martínez-García Enríque (2019) exuber: Testing and Simulating Explosive Periods. R package version 0.3.0. https://CRAN.R-project.org/package=exuber
+<!-- I am a member and the maintainer of two projects on monitoring housing markets for episodes of exuberance: -->
 
-*   Vasilopoulos Kostas and Pavlidis Efthymios (2019) ivx: Robust Econometric Inference. R package version 1.0.0.9000. https://CRAN.R-project.org/package=ivx
+* UK Housing Observatory - Lancaster  University \newline <br> 
+Website: [uk.housing-observatory.com](uk.housing-observatory.com) 
 
-<!--- IT Literacy --->
-
-# IT Literacy
-
-Advanced knowledge:  R, Matlab
-
-Intermediate Knowledge: Python, C++, Git, Latex
-
-Basic knowledge: HTML/CSS
+* International Housing Observatory - Lancaster University and the Globalization and Monetary Policy Institute of the Federal Reserve Bank of Dallas \newline <br>
+Website : [int.housing-observatory.com](int.housing-observatory.com) 
+    
+  
 
 <!--- Teaching --->
 
 # Teaching 
 
- * TA, Econ222: Intermediate Macroeconomics 
+ * TA, Econ222: Intermediate Macroeconomics (UG), Fall 2018, Fall 2019
  
- * TA, Econ102: Principles of Economics B
+ * TA, Econ102: Principles of Economics B (UG), 2016-2017, 2017-2018
+ 
+ 
+
+<!--- Technical Publications --->
+
+# Technical Publications
+
+*   Vasilopoulos Kostas, Pavlidis Efthymios, Spavound Simon and Martínez-García Enríque (2019) exuber: Testing and Simulating Explosive Periods. R package version 0.3.1. https://CRAN.R-project.org/package=exuber
+
+*   Vasilopoulos Kostas and Pavlidis Efthymios (2019) ivx: Robust Econometric Inference. R package version 1.1.0. https://CRAN.R-project.org/package=ivx
+
  
 # Grants, Awards, and Fellowships
 
@@ -168,6 +164,18 @@ cat(paste0(readLines(conferences_md)[-c(1:17)], collapse = "\n"))
 
 * 4th Short Course: Dynamic Programming – Theory, Computation and Empirical Applications 
 July 04-08, 2016 Thessaloniki, Greece. [[link]](http://sce2016.uom.gr/)
+
+<!--- IT Literacy --->
+
+# IT Literacy
+
+Advanced knowledge:  R, Matlab
+
+Intermediate Knowledge: Python, C++, Git, Latex
+
+Basic knowledge: HTML/CSS
+
+
 
 <!--- References --->
 

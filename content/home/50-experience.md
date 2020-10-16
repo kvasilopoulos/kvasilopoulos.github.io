@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.lancaster.ac.uk/lums/our-departments/economics/research/uk-housing-observatory/"
   location = "Lancaster, United Kingdom"
   date_start = "2019-03-01"
-  date_end = ""
+  date_end = "2020-09-01"
   description = """
   Responsibilities include:
   
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = "https://www.lancaster.ac.uk/"
   location = "Lancaster, United Kingdom"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2020-09-01"
   description = """ 
   Courses Tutored:
   

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  9 OCT 2020 09:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  9 OCT 2020 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv.tex
-(./cv.tex
+**CV_Vasilopoulos_2020.tex
+(./CV_Vasilopoulos_2020.tex
 LaTeX2e <2020-10-01>
 L3 programming layer <2020-10-05> xparse <2020-03-03> (c:/Users/T460p/AppData/R
 oaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -440,8 +440,8 @@ d-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count275
 \l__pdf_internal_box=\box50
-) (./cv.aux)
-\openout1 = `cv.aux'.
+) (./CV_Vasilopoulos_2020.aux)
+\openout1 = `CV_Vasilopoulos_2020.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
 LaTeX Font Info:    ... okay on input line 108.
@@ -517,9 +517,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 108.
 LaTeX Info: Redefining \pageref on input line 108.
 LaTeX Info: Redefining \nameref on input line 108.
-(./cv.out) (./cv.out)
+(./CV_Vasilopoulos_2020.out) (./CV_Vasilopoulos_2020.out)
 \@outlinefile=\write3
-\openout3 = `cv.out'.
+\openout3 = `CV_Vasilopoulos_2020.out'.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
 ut line 124.
@@ -570,31 +570,31 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 125
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-91.
+88.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 235.
+(Font)              <10> on input line 206.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 235.
+(Font)              <7> on input line 206.
 [1
 
 {c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2] 
 AED: lastpage setting LastPage
-[3] (./cv.aux)
-Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 038011C498A2119E7D4BAE97F9F54C0B;1766.
+[3] (./CV_Vasilopoulos_2020.aux)
+Package rerunfilecheck Info: File `CV_Vasilopoulos_2020.out' has not changed.
+(rerunfilecheck)             Checksum: E526ABD2F1EAFB4870D6919D18F2CE68;1766.
  ) 
 Here is how much of TeX's memory you used:
  12507 strings out of 481860
- 178659 string characters out of 5929279
- 472634 words of memory out of 5000000
+ 178929 string characters out of 5929279
+ 472724 words of memory out of 5000000
  28617 multiletter control sequences out of 15000+600000
  584411 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,11n,66p,1205b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,66p,1223b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.e
 nc}{c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1
 .enc}{c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawe
@@ -608,7 +608,7 @@ AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/T46
 0p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/
 T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/U
 sers/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on cv.pdf (3 pages, 217647 bytes).
+Output written on CV_Vasilopoulos_2020.pdf (3 pages, 216984 bytes).
 PDF statistics:
  144 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
