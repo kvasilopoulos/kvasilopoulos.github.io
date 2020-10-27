@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  9 OCT 2020 09:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.27)  27 OCT 2020 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv.tex
 (./cv.tex
-LaTeX2e <2020-10-01>
+LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-10-05> xparse <2020-03-03> (c:/Users/T460p/AppData/R
 oaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -213,7 +213,7 @@ Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoption
 s.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.
 sty
@@ -385,18 +385,18 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip61
 )
-Package hyperref Info: Option `unicode' set `true' on input line 97.
+Package hyperref Info: Option `unicode' set `true' on input line 99.
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 97.
-Package hyperref Info: Option `breaklinks' set `true' on input line 97.
+Package hyperref Info: Option `colorlinks' set `true' on input line 99.
+Package hyperref Info: Option `breaklinks' set `true' on input line 99.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 97.
+(hyperref)                setting the option has no effect on input line 99.
 
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.
@@ -443,24 +443,24 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 ) (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -497,8 +497,8 @@ LaTeX Font Info:    ... okay on input line 108.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 108.
-Package hyperref Info: Link coloring ON on input line 108.
+(lastpage)             ! on input line 110.
+Package hyperref Info: Link coloring ON on input line 110.
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.s
 ty
@@ -514,70 +514,70 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count276
 )
-LaTeX Info: Redefining \ref on input line 108.
-LaTeX Info: Redefining \pageref on input line 108.
-LaTeX Info: Redefining \nameref on input line 108.
+LaTeX Info: Redefining \ref on input line 110.
+LaTeX Info: Redefining \pageref on input line 110.
+LaTeX Info: Redefining \nameref on input line 110.
 (./cv.out) (./cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 124.
+ut line 128.
 
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/ufonta
 wesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-24.
+28.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-25.
+29.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-25.
+29.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-125.
+129.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-125.
+129.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 125.
+(Font)              <9> on input line 129.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 125.
+(Font)              <6> on input line 129.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 125.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 125
+(Font)              <5> on input line 129.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 129
 .
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 125
+LaTeX Font Info:    Trying to load font information for U+msb on input line 129
 .
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-91.
+83.
 (c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 235.
+(Font)              <10> on input line 204.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 235.
+(Font)              <7> on input line 204.
 [1
 
 {c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
@@ -585,16 +585,16 @@ x.map}] [2]
 AED: lastpage setting LastPage
 [3] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 038011C498A2119E7D4BAE97F9F54C0B;1766.
+(rerunfilecheck)             Checksum: E526ABD2F1EAFB4870D6919D18F2CE68;1766.
  ) 
 Here is how much of TeX's memory you used:
- 12507 strings out of 481860
- 178659 string characters out of 5929279
- 472634 words of memory out of 5000000
- 28617 multiletter control sequences out of 15000+600000
+ 12507 strings out of 481862
+ 178659 string characters out of 5929319
+ 473009 words of memory out of 5000000
+ 28615 multiletter control sequences out of 15000+600000
  584411 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,11n,66p,1205b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,11n,72p,1205b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.e
 nc}{c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1
 .enc}{c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawe
@@ -608,7 +608,7 @@ AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/T46
 0p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/
 T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/U
 sers/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on cv.pdf (3 pages, 217647 bytes).
+Output written on cv.pdf (3 pages, 217386 bytes).
 PDF statistics:
  144 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams

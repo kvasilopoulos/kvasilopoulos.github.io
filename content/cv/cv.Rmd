@@ -10,7 +10,7 @@ subtitle: "<a href='cv.pdf' download='kostas-vasilopoulos-cv.pdf'> <i class='fa 
 author: Kostas Vasilopoulos
 widget: "cv"
 
-jobtitle: Ph.D. Candidate Lancaster University
+jobtitle: "Ph.D. Candidate Lancaster University"
 address: "Lancaster University"
 fontawesome: yes
 email: k.vasilopoulos@lancaster.ac.uk
@@ -36,6 +36,9 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
 <!--- Employment --->
 
 # Employment
+
+ **Teaching Associate** \hfill <span style = "float:right;">  *Nov 2020 - * </span> \newline <br>
+  Lancaster University  \hfill <span style = "float:right;"> *Lancaster, UK* </span>
 
  **Research Assistant, UK Housing Observatory** \hfill <span style = "float:right;">  *Mar 2019- Sep 2020* </span> \newline <br>
   Lancaster University  \hfill <span style = "float:right;"> *Lancaster, UK* </span>
@@ -83,7 +86,6 @@ Website: [uk.housing-observatory.com](uk.housing-observatory.com)
 * International Housing Observatory - Lancaster University and the Globalization and Monetary Policy Institute of the Federal Reserve Bank of Dallas \newline <br>
 Website : [int.housing-observatory.com](int.housing-observatory.com) 
     
-  
 
 <!--- Teaching --->
 

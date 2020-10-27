@@ -98,7 +98,8 @@ $if(lang)$
     \usepackage{longtable,booktabs}
   $endif$
     $if(graphics)$
-    \usepackage{graphicx,grffile}
+    \usepackage[dvips]{graphicx}
+    \usepackage{grffile}
   \makeatletter
   \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
   \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -263,26 +264,7 @@ $if(lang)$
               \end{center}
               
               \vspace{2 mm}
-              
-              % $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
-              % $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
-              % 
-              %   \moveleft.5\hoffset\centerline{ 
-              % $if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hfill$endif$ 
-              % $if(email2)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email2$} \hspace{1 mm}$endif$ }
-              %   \moveleft.5\hoffset\centerline{ 
-              %  $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$} \hfill $endif$ 
-              %  $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$}
-              %  \moveleft.5\hoffset\centerline{
-              % $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hfill $endif$
-              % $if(updated)$  \emph{Updated:} \today  $else$   $endif$
-              % }
-              
-              
-              % \vspace{2 mm}
-              
-              % \hrule
-              
+           
               
               $body$
               
