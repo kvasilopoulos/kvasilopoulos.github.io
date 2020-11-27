@@ -1,0 +1,10 @@
+Start the Hugo server
+
+> hugo server -D 
+
+* Web Server is available at http://localhost:1313/ 
+* Press Ctrl+C to stop
+
+Build static pages
+
+> hugo -D
