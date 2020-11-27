@@ -124,4 +124,4 @@ user_groups:
 </div>
 
 
-I am a macroeconomist and PhD candidate in Economics at Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. In particular, I examine the part of Commercial Real Estate in the economy and its interaction with the Housing market.
+I am a macroeconomist and a Teaching Associate in the Department of Economics, Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. In particular, I examine the part of Commercial Real Estate in the economy and its interaction with the Housing market.
