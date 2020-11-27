@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.27)  27 OCT 2020 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.27)  27 NOV 2020 17:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -575,9 +575,9 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 204.
+(Font)              <10> on input line 219.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 204.
+(Font)              <7> on input line 219.
 [1
 
 {c:/Users/T460p/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
@@ -585,13 +585,13 @@ x.map}] [2]
 AED: lastpage setting LastPage
 [3] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: E526ABD2F1EAFB4870D6919D18F2CE68;1766.
+(rerunfilecheck)             Checksum: 70F61B0140DA739DCBD59115FB9CCE09;1896.
  ) 
 Here is how much of TeX's memory you used:
- 12507 strings out of 481862
- 178659 string characters out of 5929319
- 473009 words of memory out of 5000000
- 28615 multiletter control sequences out of 15000+600000
+ 12509 strings out of 481862
+ 178693 string characters out of 5929319
+ 473047 words of memory out of 5000000
+ 28616 multiletter control sequences out of 15000+600000
  584411 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  66i,11n,72p,1205b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -608,10 +608,10 @@ AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/T46
 0p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/
 T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/U
 sers/T460p/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on cv.pdf (3 pages, 217386 bytes).
+Output written on cv.pdf (3 pages, 217443 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
