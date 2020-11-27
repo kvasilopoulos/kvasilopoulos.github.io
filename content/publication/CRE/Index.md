@@ -33,7 +33,7 @@ summary:
 tags:
 - Real Estate
 - Research Paper
-featured: true
+featured: false
 
 links:
 - name: "Appendix"

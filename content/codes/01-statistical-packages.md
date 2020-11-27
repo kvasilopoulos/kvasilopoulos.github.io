@@ -27,4 +27,12 @@ weight = 20
   Drawing statistical inference on the coefficients of a short- or long-horizon predictive regression with persistent regressors by using the IVX method of <a href="https://doi.org/10.1017/S0266466608090154" target="_blank"> Magdalinos and Phillips (2009) </a> and <a href="https://doi.org/10.1093/rfs/hhu139" target="_blank"> Kostakis, Magdalinos and Stamatogiannis (2015) </a>.
   """
 
+[[pkg]]
+  name = "transx"
+  title =  " Transform Univariate Time Series"
+  description = """
+  Univariate time series operations that follow an opinionated design. The main principle of 'transx' is to keep the number of observations the same. Operations that reduce this number have to fill the observations gap..
+  """
+
 +++
+

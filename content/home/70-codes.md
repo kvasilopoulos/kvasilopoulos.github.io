@@ -56,26 +56,9 @@ weight = 70
   </a>
 </h4>
 
-
-<!-- Rest -->
-
-<!-- 
-<p style = "font-size:18px; margin-left:-2em; font-weight: bold; margin-top: 2rem;"> 
-  For a comprehensive list you can see 
-  <a href="./codes/"> here. </a>
-</p>
--->
-
 <div class="see-all">
   <a href="/codes/">
     See all Software
     <i class="fas fa-angle-right"></i>
   </a>
 </div>
-
-<!-- <p style="text-align:right;width: 80%;padding-top:42px;">
-  <a href="./codes/">  
-    <i class="fas fa-angle-double-right"></i>
-    Comprehensive List
-  </a>
-</p>-->
