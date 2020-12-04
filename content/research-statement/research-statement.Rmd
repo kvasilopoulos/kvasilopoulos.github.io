@@ -4,11 +4,9 @@ output:
     latex_engine: pdflatex
 geometry: margin=1in
 
-title: "Teaching Statement"
+title: "Research Summary"
 subtitle: Kostas Vasilopoulos 
 ---
-
-# Research Statement 
 
 I am a macroeconomist with both theoretical and empirical interests. My primary research concentrates on real estate economics and macroeconometrics. I also have research that focuses on explosive dynamics and asset predictability.
 
