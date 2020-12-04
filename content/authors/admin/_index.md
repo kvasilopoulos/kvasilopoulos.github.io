@@ -125,3 +125,6 @@ user_groups:
 
 
 I am a macroeconomist and a Teaching Associate in the Department of Economics, Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. In particular, I examine the part of Commercial Real Estate in the economy and its interaction with the Housing market.
+
+**<center>I am on the 2020-2021 Job Market and available for virtual interviews.</center>**
+
