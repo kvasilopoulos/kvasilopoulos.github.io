@@ -31,7 +31,7 @@ summary:
 
 tags:
 - housing markets
-featured: false
+featured: true
 
 # links:
 # - name: ""

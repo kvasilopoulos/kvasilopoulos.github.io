@@ -72,7 +72,7 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
 
 * Vasilopoulos K., Pavlidis E., Martínez-García E.(2020). exuber: Recursive Right-Tailed Unit Root Testing with R. **Dallas Fed Working Paper**.
 
-* Vasilopoulos K., Tayler W. (2019). Real Estate and Construction Sector Dynamics in the Business Cycle. **Working Paper**
+* Vasilopoulos K., Tayler W. (2020). Real Estate and Construction Sector Dynamics in the Business Cycle. **Working Paper**
 
 # Work in Progress
 

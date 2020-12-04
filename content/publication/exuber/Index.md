@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Dallas Fed Working Paper**"
+publication: "**Dallas Fed Working Paper** (submitted)"
 publication_short: ""
 
 abstract: This paper introduces the R package exuber for testing and date-stamping periods of mildly explosive dynamics (exuberance) in time series.  The package computes test statistics for the supremum ADF test (SADF) of Phillips, Wu, and Yu (2011), the generalized SADF  (GSADF)  of  Phillips,  Shi,  and  Yu  (2015a,b),  and  the  panel  GSADF  proposed by Pavlidis,  Yusupova,  Paya,  Peel, Martínez-García,  Mack,  and Grossman (2016);  generates  finite-sample  critical  values  based  on  Monte  Carlo  and  bootstrap  methods;  and implements the corresponding date-stamping procedures.  The recursive least-squares algorithm that we introduce in our implementation of these techniques utilizes the matrix inversion lemma and in that way achieves significant speed improvements.  We illustrate the speed gains in a simulation experiment, and provide illustrations of the package using artificial series and a panel on international house prices.

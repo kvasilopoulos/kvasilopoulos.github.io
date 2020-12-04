@@ -2,11 +2,11 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
-title = "Documents"
-subtitle = "Academic"
+title = "Job Market"
+subtitle = "Documents"
 
 # Showcase personal skills or business features.
 #
@@ -19,7 +19,7 @@ subtitle = "Academic"
 
 <div class="row">
   
-  <div class="col-12 col-sm-4">
+  <div class="col-12 col-sm-3">
     <div class="featurette-icon">
     <ul class="network-icon" aria-hidden="true">
       <li class="li-icon">
@@ -32,7 +32,20 @@ subtitle = "Academic"
     <h3>Curriculum Vitae</h3>
   </div>
   
-  <div class="col-12 col-sm-4">
+  <div class="col-12 col-sm-3">
+    <div class="featurette-icon">
+    <ul class="network-icon" aria-hidden="true">
+      <li class="li-icon">
+        <a href = "/publication/cre/index/">
+          <i class="fas fa-file-alt"></i>
+        </a>
+      </li>
+      </ul>
+    </div>
+    <h3>Job Market Paper</h3>
+  </div>
+  
+  <div class="col-12 col-sm-3">
     <div class="featurette-icon">
     <ul class="network-icon" aria-hidden="true">
       <li class="li-icon">
@@ -45,7 +58,7 @@ subtitle = "Academic"
     <h3>Research Summary</h3>
   </div>
   
-  <div class="col-12 col-sm-4">
+  <div class="col-12 col-sm-3">
     <div class="featurette-icon">
     <ul class="network-icon" aria-hidden="true">
       <li class="li-icon">

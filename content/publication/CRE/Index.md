@@ -3,7 +3,7 @@ title: "Real Estate and Construction Sector Dynamics in the Business Cycle"
 authors:
 - admin
 - William Tayler
-date: "2019-01-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Working Paper**"
+publication: "**Working Paper**  (Job Market Paper)"
 publication_short: ""
 
 abstract: We investigate the business cycle, property-price and investment dynamics when there is competition between households and firms for real estate.  We introduce a construction sector into a RBC framework, which uses land, capital and labour to produce both commercial and residential real estate.  This market structure activates a `real estate substitution channel', where economic disturbances which alter the demand for one type of real estate, by affecting the overall costs of real estate production, endogenously create a substitution with its counterpart. For example, an increase in demand for residential real estate also increases the cost of producing commercial structures, which reduces the quantity demanded by firms. In turn, this crowds out commercial real estate which affects the goods market in a similar way to an adverse aggregate supply shock. The estimated model reveals that housing preference shocks explain the largest part of the variation in property prices and residential investment, while commercial real estate prices are primarily driven by technology shocks.
