@@ -14,6 +14,12 @@ subtitle = ""
 weight = 20
 
 +++
+
+* Summer School - Bayesian Methods for Empirical Macroeconomics, 29th – 30th June 2020, Lancaster University, UK.
+[[link]](https://sites.google.com/view/lancseconsummer/home)
+
+* Summer School - Applied Macroeconometrics, 25th – 27th September 2019, Lancaster University, UK.
+[[link]](http://wp.lancs.ac.uk/lancaster-phd-summer-school-2019/)
     
 * Summer School -  Advanced Courses on DSGE Macroeconomic Modelling, 4-8 Sept 2017, University of Surrey, UK. [[link]](https://www.surrey.ac.uk/events/20180903-foundations-and-advanced-courses-dsge-macroeconomic-modelling-and-conference-summer)
 
