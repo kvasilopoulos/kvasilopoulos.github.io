@@ -21,5 +21,3 @@ Furthermore, in the last two years of my Ph.D., I worked in the Maths and Stats 
 ### Teaching Interests
 
 I will be happy to teach courses in macroeconomics, time-series econometrics, and real estate economics. In courses like quantitative methods or econometrics, I will try to incorporate the use of open-source programming software (e.g. R and Python) to help students gain a firmer grasp of the underlying theory and obtain the necessary programming skills. With the teaching experience, I have had so far; I feel confident to be able to take the challenges of preparing a new course.
-
-

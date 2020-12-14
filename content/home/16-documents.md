@@ -70,31 +70,5 @@ subtitle = "Documents"
     </div>
     <h3>Teaching Statement</h3>
   </div>
-
-<style>
-.grow { transition: all .2s ease-in-out; }
-.grow:hover { transform: scale(1.1); }
-
-.a-icon {
-  transition: all .2s ease-in-out;
-}
-
-.a-icon:hover {
-  color: red;
-  transform: scale(1.1);
-}
-.li-icon {
-  padding: 10px;
-}
-<a>
-</style>
-
-
-
-<!-- <div class="row">
-      <div class="featurette-icon"> <i class="fab fa-html5"></i> </div>
-      <div class="featurette-icon"> <i class="far fa-file-pdf"></i> </div>
-      <div class="featurette-icon"> <i class="fas fa-file-pdf"></i> </div>
-    </div>
-    
--->
+  
+</div>
