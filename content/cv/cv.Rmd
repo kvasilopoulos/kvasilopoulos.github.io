@@ -10,8 +10,8 @@ subtitle: "<a href='cv.pdf' download='kostas-vasilopoulos-cv.pdf'> <i class='fa 
 author: Kostas Vasilopoulos
 widget: "cv"
 
-jobtitle: "Ph.D. Candidate Lancaster University"
-address: "Lancaster University"
+jobtitle: "Teaching Associate Lancaster University"
+address: 
 fontawesome: yes
 email: k.vasilopoulos@lancaster.ac.uk
 email2: k.vasilopoulo@gmail.com
