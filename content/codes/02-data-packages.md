@@ -19,6 +19,13 @@ weight = 30
   description = """
   Access data from [Land Registry Open Data](https://landregistry.data.gov.uk/) through SPARQL queries. 'uklr' supports the house price index, transaction and price paid data.
   """
+  
+[[pkg]]
+  name = "onsr"
+  title =  "Client for the 'ONS' API"
+  description = """
+  Client for the 'Office of National Statistics' ('ONS') <a href = "https://api.beta.ons.gov.uk/v1" target="_blank"> 'Office of National Statistics' ('ONS') API</a>.
+  """
 
 [[pkg]]
   name = "ihpdr"
