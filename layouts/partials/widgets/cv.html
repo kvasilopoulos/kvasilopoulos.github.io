@@ -5,7 +5,7 @@
     <div class="col-12 col-lg-12 section-heading" style="text-align: right;">
         {{/*  {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}  */}}
         <a href="cv.pdf"
-            class="btn btn-dark active" style="padding: .5rem 1rem;font-size: 1rem;line-height: 1.15;border-radius:.3rem;"
+            class="btn active" style="padding: .5rem 1rem;font-size: 1rem;line-height: 1.15;border-radius:.3rem;"
             role="button" aria-pressed="true"> <i class="fa fa-download"></i> Download
         </a>
         {{/*  {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}  */}}
@@ -14,7 +14,7 @@
         {{ $st.Content }}
     </div>
     <div class="col-12 col-lg-12" style="text-align: center;">
-        {{/*  <a href="cv.pdf" class="btn btn-dark btn-lg active"
+        {{/*  <a href="cv.pdf" class="btn btn-lg active"
             style="padding: .5rem 1rem;font-size: 1rem;line-height: 1.15;border-radius:.3rem;"
             aria-pressed="true"> <i class="fa fa-download"></i> Download
         </a>  */}}
@@ -27,3 +27,13 @@
     </div>
     {{ end }}
 
+<style>
+  .btn {
+    border-color: #313131; /*set the color you want here*/
+  }
+.btn:hover, .btn:focus{
+    color: #fff;
+    background-color: #313131;
+    border-color: #285e8e; /*set the color you want here*/
+}
+</style>
