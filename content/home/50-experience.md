@@ -24,7 +24,15 @@ date_format = "Jan 2006"
   location = "Lancaster, United Kingdom"
   date_start = "2020-11-01"
   date_end = ""
-  description = ""
+  description = """ 
+  Courses Tutored:
+  
+  * Econ223: Intermediate Macroeconomics II
+  * Econ 324: Advanced Macroeconomics
+  * Econ 400: Macroeconomics for Money, Banking and Finance
+  * Econ 101: Principles of Economics A
+
+"""
 
 [[experience]]
   title = "Research Assistant"
@@ -50,8 +58,8 @@ date_format = "Jan 2006"
   description = """ 
   Courses Tutored:
   
-  * [Econ222: Intermediate Macroeconomics I](http://www.lusi.lancaster.ac.uk/CoursesHandbook/ModuleDetails/ModuleDetail?yearId=000114&courseId=016985)
-  * [Econ 102: Principles of Economics B](http://www.lusi.lancaster.ac.uk/CoursesHandbook/ModuleDetails/ModuleDetail?yearId=000114&courseId=018424)
+  * Econ222: Intermediate Macroeconomics I
+  * Econ 102: Principles of Economics B
 
 """
 +++
