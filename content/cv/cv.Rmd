@@ -43,7 +43,6 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
  **Research Assistant, UK Housing Observatory** \hfill <span style = "float:right;">  *Mar 2019 - Sep 2020* </span> \newline <br>
   Lancaster University  \hfill <span style = "float:right;"> *Lancaster, UK* </span>
 
-
   **Graduate Teaching Assistant** \hfill <span style = "float:right;">  *Oct 2016 - Sep 2020* </span> \newline <br>
   Lancaster University  \hfill <span style = "float:right;"> *Lancaster, UK* </span>
 
@@ -68,19 +67,24 @@ Macroeconomics, Real Estate Markets, Time  Series Modeling, Credit Frictions, Dy
 
 # Research
 
+
+## Publications
+
 * Pavlidis E., Vasilopoulos K. (2020). Speculative Bubbles in Segmented Markets: Evidence from Chinese Cross-Listed Stocks. **Journal of International Money and Finance** .
+
+## Submitted
 
 * Vasilopoulos K., Pavlidis E., Martínez-García E.(2020). exuber: Recursive Right-Tailed Unit Root Testing with R. **Dallas Fed Working Paper**.
 
 * Vasilopoulos K., Tayler W. (2020). Real Estate and Construction Sector Dynamics in the Business Cycle. **Working Paper**
 
-# Work in Progress
+## Work in Progress
 
 * Pavlidis E., Vasilopoulos K. (2020). Sentimental Housing Markets. 
 
-* Vasilopoulos K. (2020). Real Estate and Monetary Policy: Residential and Commerical.
+* Vasilopoulos K. (2020). Real Estate and Monetary Policy: Residential and Commercial.
 
-* Skouralis A., Vasilopoulos K. (2020).   Asymmetries in the transmission of Housing Demand Shocks.
+* Skouralis A., Vasilopoulos K. (2020). Asymmetries Effects of Housing Demand Shocks.
 
 <!--- Projects --->
 

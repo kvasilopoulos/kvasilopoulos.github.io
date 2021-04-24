@@ -232,11 +232,16 @@ $if(lang)$
               breaklinks=true, bookmarks=true}
               \urlstyle{same}  % don't use monospace font for urls
 
-              \usepackage{titlesec}
+              \usepackage[calcwidth]{titlesec}
               \titlespacing\section{-4pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
               \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
-              \titleformat{\section}{\normalfont\large\bfseries}{}{0pt}{}[{\titlerule[0.4pt]}]
-
+              \titleformat{\section}[block] {\Large\sffamily\bfseries}
+              {\thesection}{0.5em}{\color{black}}
+              %This creates a rule that matches the full page's width, rather than the title's
+               [\vspace{-1.5ex}\rule{\titlewidth}{0.2pt}]
+              %\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+              %\titleformat{\section}{\normalfont\large\bfseries}{}{0pt}{}%[{\titlerule[0.4pt]}]
+              \titleformat{\subsection}{\bfseries}{}{0pt}{}
               
               \usepackage{xcolor}
 
