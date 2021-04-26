@@ -113,7 +113,7 @@ user_groups:
     margin: 2rem 2rem;
   }
   .typewriter h1 {
-    font-size: 21px;
+    font-size: 18px;
   }
 }
 
@@ -124,7 +124,9 @@ user_groups:
 </div>
 
 
-I am a macroeconomist and a Teaching Associate in the Department of Economics, Lancaster University. My research interests include theoretical and applied macroeconomics focused on the real estate markets. In particular, I examine the part of Commercial Real Estate in the economy and its interaction with the Housing market.
+I am a macroeconomist and a Teaching Associate in the Department of Economics, Lancaster University. My primary research interests include theoretical and applied macroeconomics focused on the real estate markets. In particular, I examine the business cycle, property-price and investment dynamics when there is competition between households and firms for real estate. My secondary research interests focuses on explosive dynamics and asset predictability.
+
+I am also affiliated with the Housing Observatory, an initiative aiming to improve our understanding of housing markets. Housing Observatory is comprised of two projects, the [International Housing Observatory](https://int.housing-observatory.com/), which is in collaboration with the Globalization & Monetary Policy Institute of the Federal Reserve Bank of Dallas and the [UK Housing Observatory](https://uk.housing-observatory.com/) of Lancaster University.
 
 **<center>I am on the 2020-2021 Job Market and available for virtual interviews.</center>**
 
