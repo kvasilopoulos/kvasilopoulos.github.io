@@ -1,5 +1,5 @@
 ---
-title: "Real Estate and Construction Sector Dynamics in the Business Cycle"
+title: "Real Estate and Construction Sector Dynamics over the Business Cycle"
 authors:
 - admin
 - William Tayler
@@ -25,7 +25,7 @@ publication_types: ["1"]
 publication: "**Working Paper**  (Job Market Paper)"
 publication_short: ""
 
-abstract: This paper explores the business cycle, property prices and investment dynamics when there is competition between households and firms for real estate.  We introduce a construction sector into an RBC framework, which uses land, capital and labour to produce both commercial and residential real estate. This market structure activates a `real estate substitution channel', where an increase in demand for residential real estate also increases the cost of producing commercial structures, which crowds out commercial real estate investment. In general, we find that the residential/commercial land allocation acts as an anchor for the allocation of its real estate investment counterpart; however, there are notable separations, particularly following the financial crisis where there was a simultaneous fall in residential and commercial investment. Our results indicate that whilst residential real estate prices were predominately driven by increases in its demand in the buildup to the financial crisis, the fall in demand for commercial real estate played a significant role in generating price falls for both types of real estate in the aftermath.  Furthermore, falls in the overall supply of real estate played an important role in reducing real estate investment which put upward pressure on prices throughout the past two decades.
+abstract: This paper explores the property prices and investment dynamics over the business cycle when there is competition between households and firms for real estate.  We introduce a construction sector into an RBC framework, which uses land, capital and labour to produce both commercial and residential real estate. This market structure activates a real estate substitution channel, where an increase in demand for residential real estate also increases the cost of producing commercial structures, which crowds out commercial real estate investment. In general, we find that the residential/commercial land allocation acts as an anchor for the allocation of its real estate investment counterpart; however, there are notable separations, particularly following the financial crisis where there was a simultaneous fall in residential and commercial investment. Our results indicate that whilst residential real estate prices were predominately driven by increases in its demand in the buildup to the financial crisis, the fall in demand for commercial real estate played a significant role in generating price falls for both types of real estate in the aftermath.  Furthermore, falls in the overall supply of real estate played an important role in reducing real estate investment which put upward pressure on prices throughout the past two decades.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Real_Estate_and_Construction_Sector_Dynamicsin_the_Business_Cycle.pdf
+url_pdf: files/Real_Estate_and_Construction_Sector_Dynamics_over_the_Business_Cycle.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
