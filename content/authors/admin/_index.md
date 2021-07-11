@@ -128,5 +128,4 @@ I am a macroeconomist and a Teaching Associate in the Department of Economics, L
 
 I am also affiliated with the Housing Observatory, an initiative aiming to improve our understanding of housing markets. Housing Observatory is comprised of two projects, the [International Housing Observatory](https://int.housing-observatory.com/), which is in collaboration with the Globalization & Monetary Policy Institute of the Federal Reserve Bank of Dallas and the [UK Housing Observatory](https://uk.housing-observatory.com/) of Lancaster University.
 
-**<center>I am on the 2020-2021 Job Market and available for virtual interviews.</center>**
 
